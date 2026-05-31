@@ -1,63 +1,455 @@
-<!DOCTYPE html>
-<html class="dark">
-<head>
-    <meta charset="UTF-8">
-    <title>Radio Explorer</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <style>body { background-color: #13131b; }</style>
+<!DOCTYPE html><html class="dark" lang="en" style=""><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Radio Explorer - Global Radio Stations</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;600;700;900&amp;family=Inter:wght@400;600&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #13131b;
+        }
+        .station-card:hover .play-overlay {
+            opacity: 1;
+            transform: scale(1);
+        }
+        .glass-player {
+            backdrop-filter: blur(12px);
+            background-color: rgba(31, 31, 39, 0.85);
+        }
+    </style>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "surface-container-low": "#1b1b23",
+                        "on-primary-fixed-variant": "#2f2ebe",
+                        "on-secondary-fixed-variant": "#5516be",
+                        "surface-container": "#1f1f27",
+                        "surface-container-high": "#292932",
+                        "inverse-primary": "#494bd6",
+                        "on-surface-variant": "#c7c4d7",
+                        "surface-container-highest": "#34343d",
+                        "on-surface": "#e4e1ed",
+                        "tertiary-fixed": "#ffdcc5",
+                        "surface-container-lowest": "#0d0d15",
+                        "secondary-fixed": "#e9ddff",
+                        "on-primary-fixed": "#07006c",
+                        "on-secondary-container": "#c4abff",
+                        "outline-variant": "#464554",
+                        "background": "#13131b",
+                        "on-primary-container": "#0d0096",
+                        "tertiary": "#ffb783",
+                        "surface-dim": "#13131b",
+                        "primary-fixed": "#e1e0ff",
+                        "error-container": "#93000a",
+                        "surface-tint": "#c0c1ff",
+                        "tertiary-fixed-dim": "#ffb783",
+                        "on-tertiary-container": "#452000",
+                        "surface-variant": "#34343d",
+                        "secondary": "#d0bcff",
+                        "on-secondary": "#3c0091",
+                        "inverse-surface": "#e4e1ed",
+                        "primary-fixed-dim": "#c0c1ff",
+                        "on-tertiary-fixed": "#301400",
+                        "tertiary-container": "#d97721",
+                        "error": "#ffb4ab",
+                        "on-background": "#e4e1ed",
+                        "primary": "#c0c1ff",
+                        "surface-bright": "#393841",
+                        "inverse-on-surface": "#303038",
+                        "on-error-container": "#ffdad6",
+                        "on-tertiary": "#4f2500",
+                        "secondary-fixed-dim": "#d0bcff",
+                        "on-secondary-fixed": "#23005c",
+                        "on-primary": "#1000a9",
+                        "secondary-container": "#571bc1",
+                        "primary-container": "#8083ff",
+                        "surface": "#13131b",
+                        "on-error": "#690005",
+                        "on-tertiary-fixed-variant": "#703700",
+                        "outline": "#908fa0"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                    "spacing": {
+                        "gutter": "24px",
+                        "max-width": "1280px",
+                        "base": "8px",
+                        "margin-desktop": "48px",
+                        "margin-mobile": "16px"
+                    },
+                    "fontFamily": {
+                        "title-md": ["Hanken Grotesk"],
+                        "body-md": ["Inter"],
+                        "headline-lg": ["Hanken Grotesk"],
+                        "label-sm": ["Inter"],
+                        "body-sm": ["Inter"],
+                        "display-lg": ["Hanken Grotesk"]
+                    },
+                    "fontSize": {
+                        "title-md": ["18px", {"lineHeight": "24px", "fontWeight": "600"}],
+                        "body-md": ["16px", {"lineHeight": "24px", "fontWeight": "400"}],
+                        "headline-lg": ["32px", {"lineHeight": "40px", "letterSpacing": "-0.01em", "fontWeight": "600"}],
+                        "label-sm": ["12px", {"lineHeight": "16px", "fontWeight": "600"}],
+                        "body-sm": ["14px", {"lineHeight": "20px", "fontWeight": "400"}],
+                        "display-lg": ["48px", {"lineHeight": "56px", "letterSpacing": "-0.02em", "fontWeight": "700"}]
+                    }
+                },
+            },
+        }
+    </script>
 </head>
-<body class="p-6">
-    <h1 class="text-white text-3xl font-bold mb-6">สถานีวิทยุไทย</h1>
-    <div id="station-grid" class="grid grid-cols-2 md:grid-cols-4 gap-6"></div>
+<body class="bg-background text-on-surface">
+<!-- TopNavBar Header -->
+<header class="bg-surface-container-low sticky top-0 z-50 h-20 flex justify-between items-center px-gutter w-full max-w-full mx-auto">
+<div class="flex items-center gap-8">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-primary text-3xl" style="font-variation-settings: &quot;FILL&quot; 1;">radio</span>
+<h1 class="font-display-lg text-title-md font-bold text-primary tracking-tight">Radio Explorer</h1>
+</div>
+<div class="relative hidden md:block w-96">
+<span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-on-surface-variant text-sm">search</span>
+<input class="w-full bg-surface-container border-none rounded-lg py-2 pl-10 pr-4 text-body-sm focus:ring-1 focus:ring-primary text-on-surface placeholder:text-on-surface-variant" placeholder="ค้นหาสถานี, เมือง, ประเภท..." type="text">
+</div>
+</div>
+<nav class="hidden lg:flex items-center gap-6">
+<a class="font-label-sm text-primary border-b-2 border-primary pb-1 transition-colors" href="#">สำรวจ</a>
+<a class="font-label-sm text-on-surface-variant hover:text-primary transition-colors" href="#">พอดแคสต์</a>
+<a class="font-label-sm text-on-surface-variant hover:text-primary transition-colors" href="#">สด</a>
+</nav>
+<div class="flex items-center gap-4">
+<button class="p-2 text-on-surface-variant hover:text-primary transition-transform active:scale-95 duration-150">
+<span class="material-symbols-outlined">notifications</span>
+</button>
+<button class="p-2 text-on-surface-variant hover:text-primary transition-transform active:scale-95 duration-150">
+<span class="material-symbols-outlined">settings</span>
+</button>
+<img alt="User Profile" class="w-10 h-10 rounded-full object-cover border-2 border-surface-container-high" data-alt="A professional close-up studio portrait of a young man with a friendly expression. The lighting is soft and cinematic, characteristic of a high-end corporate headshot. He is set against a deep navy background that complements the dark mode UI design. The image is crisp, detailed, and uses a modern, premium aesthetic." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBfioGUWKPdBXnGpkmneGTWDw9GpPhdm42iq37kQp2L5AONpH-5Ui6cuj6LY_At-KmHxJJvYaqoz5bojmYsYDvYi2YY9GjXIFOmhUnwEi39GqeuGaoWFKHDF3ta20hz13lkbGoZSPUuPujN9QKR92-4e6uHKOAchyJKNvcwCKn-L20dJzSkcpgNJTEYHCGwKqhAOTTHeLjQaX0SHbMulrzGCBoz8yCnmLt6YOnICGy3KrgzeCv2rPEnS1L6d0Stbc0NfXvgaJ4awkBo">
+</div>
+</header>
+<!-- Main Content Area with SideNav -->
+<div class="flex min-h-screen">
+<!-- SideNavBar -->
+<aside class="hidden xl:flex flex-col h-[calc(100vh-80px)] w-64 fixed left-0 top-20 bg-surface-container-low p-4 space-y-4">
+<div class="space-y-1">
+<a class="flex items-center gap-3 p-3 text-primary font-bold bg-surface-container-high rounded-lg transition-all opacity-80" href="#">
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">home</span>
+<span class="font-label-sm text-label-sm">หน้าแรก</span>
+</a>
+<a class="flex items-center gap-3 p-3 text-on-surface-variant hover:bg-surface-container-highest rounded-lg transition-all" href="#">
+<span class="material-symbols-outlined">library_music</span>
+<span class="font-label-sm text-label-sm">คลังเพลง</span>
+</a>
+<a class="flex items-center gap-3 p-3 text-on-surface-variant hover:bg-surface-container-highest rounded-lg transition-all" href="#">
+<span class="material-symbols-outlined">favorite</span>
+<span class="font-label-sm text-label-sm">รายการโปรด</span>
+</a>
+<a class="flex items-center gap-3 p-3 text-on-surface-variant hover:bg-surface-container-highest rounded-lg transition-all" href="#">
+<span class="material-symbols-outlined">history</span>
+<span class="font-label-sm text-label-sm">ประวัติการฟัง</span>
+</a>
+</div>
+<div class="pt-4 border-t border-outline-variant/30">
+<h3 class="px-3 mb-2 font-label-sm text-[10px] uppercase tracking-widest text-on-surface-variant opacity-50">หมวดหมู่สถานี</h3>
+<div class="flex flex-wrap gap-2 px-3">
+<span class="px-3 py-1 bg-surface-container rounded-full text-[11px] font-semibold text-on-surface-variant hover:bg-primary/20 hover:text-primary cursor-pointer transition-colors">Jazz</span>
+<span class="px-3 py-1 bg-surface-container rounded-full text-[11px] font-semibold text-on-surface-variant hover:bg-primary/20 hover:text-primary cursor-pointer transition-colors">Rock</span>
+<span class="px-3 py-1 bg-surface-container rounded-full text-[11px] font-semibold text-on-surface-variant hover:bg-primary/20 hover:text-primary cursor-pointer transition-colors">Pop</span>
+<span class="px-3 py-1 bg-surface-container rounded-full text-[11px] font-semibold text-on-surface-variant hover:bg-primary/20 hover:text-primary cursor-pointer transition-colors">Classical</span>
+</div>
+</div>
+<div class="mt-auto space-y-1 pb-4">
+<a class="flex items-center gap-3 p-3 text-on-surface-variant hover:bg-surface-container-highest rounded-lg transition-all" href="#">
+<span class="material-symbols-outlined">help</span>
+<span class="font-label-sm text-label-sm">ความช่วยเหลือ</span>
+</a>
+<a class="flex items-center gap-3 p-3 text-on-surface-variant hover:bg-surface-container-highest rounded-lg transition-all" href="#">
+<span class="material-symbols-outlined">logout</span>
+<span class="font-label-sm text-label-sm">ออกจากระบบ</span>
+</a>
+<button class="w-full mt-4 py-3 bg-primary text-on-primary-container rounded-xl font-bold text-label-sm transition-transform active:scale-95">สมัครสมาชิกพรีเมียม</button>
+</div>
+</aside>
+<!-- Main Content -->
+<main class="flex-1 xl:ml-64 p-gutter pb-32">
+<header class="mb-8">
+<h2 class="font-headline-lg text-headline-lg text-on-surface">สถานีวิทยุไทย</h2>
+<p class="font-body-md text-on-surface-variant">สำรวจและฟังวิทยุสดจากทั่วประเทศ</p>
+</header>
+<!-- Station Grid -->
+<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6 gap-6"><!-- Card 1: COOL Fahrenheit 93 FM -->
+<div class="station-card group flex flex-col gap-3 cursor-pointer">
+<div class="relative aspect-square bg-surface-container rounded-xl overflow-hidden hover:ring-1 hover:ring-primary/30 transition-all">
+<img alt="COOL Fahrenheit 93 FM" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBDVj7YX4-zCx2lOTaNfsiSWD5dgkJs-KEgrZoOHPzd0vEiSYZljPBuxdY0gceW2YgWZAC7eC3aass9_dHoZCliRve6uWrZMCZh292K4qujcMXya8WjHf9j-Pr5DLzIesqYelFt9bvihkcAWecA0xhBSYD2oVt-hU5CKRvmJIVHdLSvQvDjcmKEwEhc4bMXhqqXywOtwjFex2Pn4BsbIudHFCs0VZB23JuC8l_LF62zjou3SfwEPPihbeakPHObzKkkbNj5UjSaiUS7">
+<div class="play-overlay absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 transform scale-90 transition-all duration-300">
+<span class="material-symbols-outlined text-white text-5xl" style="font-variation-settings: &quot;FILL&quot; 1;">play_circle</span>
+</div>
+</div>
+<div class="text-center">
+<h4 class="font-title-md text-on-surface">COOL Fahrenheit 93 FM</h4>
+</div>
+</div>
+<!-- Card 2: Green Wave 106.5 FM -->
+<div class="station-card group flex flex-col gap-3 cursor-pointer">
+<div class="relative aspect-square bg-surface-container rounded-xl overflow-hidden hover:ring-1 hover:ring-primary/30 transition-all">
+<img alt="Green Wave 106.5 FM" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAQB_V1CD1jYE1KzgmFvuW-mVtRp2OpK7Mt8nheh03-jrdikgdLMYWeIYxw2S7yITsQwWgX-aumld74jUSqPHYfQYDFvxjH1N4VL0MHkEQBg7wIKJqMu7JG0Ao5QoiW5uJpE80fQqil1TY3kL-n8mjFycaDzUqm-z6bLCUbmejNw_KAV6Ie9eHnyFJya45uisiD2SB8dHFFtuW5LobF0iAO4y9Btm8WdQuQ_zks2eNrjH4XRxTn8Jw59drp7Yo7MuFCP7q8x_2dJzwv">
+<div class="play-overlay absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 transform scale-90 transition-all duration-300">
+<span class="material-symbols-outlined text-white text-5xl" style="font-variation-settings: &quot;FILL&quot; 1;">play_circle</span>
+</div>
+</div>
+<div class="text-center">
+<h4 class="font-title-md text-on-surface">Green Wave 106.5 FM</h4>
+</div>
+</div>
+<!-- Card 3: FLEX 104.5 FM -->
+<div class="station-card group flex flex-col gap-3 cursor-pointer">
+<div class="relative aspect-square bg-surface-container rounded-xl overflow-hidden hover:ring-1 hover:ring-primary/30 transition-all">
+<img alt="FLEX 104.5 FM" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAAQuz6HLCTeXKynejOV6635QNzANe9hCQ6oRIx8Yj8GdkBDywSVjeSVIYleYLK2TuaETzQb-8LNh73R0RtKxD9lS-0a4aejNFeqrVVmkxkbrKP7sdTF4PhYELfVvNWYtjPMgf7rl2sOCltpgIHTBUvM1Pc9hnsFVIMSLeaXtJBXtUrev1vuLQ5jTQunuOEVCVXwazOtIvZSViquuksgDvFN7Y6PXf81qMGGGswIW4iMZvEX1bLys_T-4CO2jll6uB53hjQtcZAyLKk">
+<div class="play-overlay absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 transform scale-90 transition-all duration-300">
+<span class="material-symbols-outlined text-white text-5xl" style="font-variation-settings: &quot;FILL&quot; 1;">play_circle</span>
+</div>
+</div>
+<div class="text-center">
+<h4 class="font-title-md text-on-surface">FLEX 104.5 FM</h4>
+</div>
+</div>
+<!-- Card 4: FM 95 ลูกทุ่งมหานคร อสมท -->
+<div class="station-card group flex flex-col gap-3 cursor-pointer">
+<div class="relative aspect-square bg-surface-container rounded-xl overflow-hidden hover:ring-1 hover:ring-primary/30 transition-all">
+<img alt="FM 95 ลูกทุ่งมหานคร อสมท" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAiDwDXJNXRdcDobffEWOnnjaWIGs05CnhepOAv7xsSFJWwGD6lz-4FReIRrI2WNHzIcFqj9d2nWRDn27nb4XI2EC1jnNCu6YL-b7ZEPJxfQXdMSNmVtut3bH9iR03yaFUKD9D5AqKd5WuM-a2WDsHYtCCVdqaNySClu476qpYEdNmF7oCkXZFt0aeeZHNdmCBpIYVbJ3oUMxWsVhiTjOOeyEj9FyDuFYtEkf7_3g_KbqN1vh1cdYbeAaCwGl0t5q-3z6PV0aiY2MTi">
+<div class="play-overlay absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 transform scale-90 transition-all duration-300">
+<span class="material-symbols-outlined text-white text-5xl" style="font-variation-settings: &quot;FILL&quot; 1;">play_circle</span>
+</div>
+</div>
+<div class="text-center">
+<h4 class="font-title-md text-on-surface">FM 95 ลูกทุ่งมหานคร อสมท</h4>
+</div>
+</div>
+<!-- Card 5: FM 99 Active Radio -->
+<div class="station-card group flex flex-col gap-3 cursor-pointer">
+<div class="relative aspect-square bg-surface-container rounded-xl overflow-hidden hover:ring-1 hover:ring-primary/30 transition-all">
+<img alt="FM 99 Active Radio" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD0KxD9c-6p_ZcQ6WGGbqT5xQ9S-hMZwIf4lt-5TiOMFToh9GQ9qRsSfujeWUTmY6tMu2jJVuyjIRzpXQJnaCikBRid5Ng6zkGZ0AlzJAAsZfo9kpPQLkn14DIaajYN0CDilHtrDzOJ1kDWxUh9WlQUcPdSjoJU2Bg243Qa6OuVpfx21izzZWtwekacp65dOcWhZQl4n03yBzLK33B2mJsgCrSW6T2K8njVk_IT5FvyHmXX6OyN_tjcahzR93Ofj-IkbjvTtYqEcMEo">
+<div class="play-overlay absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 transform scale-90 transition-all duration-300">
+<span class="material-symbols-outlined text-white text-5xl" style="font-variation-settings: &quot;FILL&quot; 1;">play_circle</span>
+</div>
+</div>
+<div class="text-center">
+<h4 class="font-title-md text-on-surface">FM 99 Active Radio</h4>
+</div>
+</div>
+<!-- Card 6: FM 96.5 คลื่นความคิด Thinking Radio -->
+<div class="station-card group flex flex-col gap-3 cursor-pointer">
+<div class="relative aspect-square bg-surface-container rounded-xl overflow-hidden hover:ring-1 hover:ring-primary/30 transition-all">
+<img alt="FM 96.5 ȄȥɁȩȄȧȲȡȄȴȡ Thinking Radio" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD7uzDJMQFLZmsK2_Xa1BQwGrkgoR-p3AJEyO-xB5wSf_dxWBBTaNQiEJVuCKMsA2QUre_GIcUxln1fBU_P8egiRgsQTZzXW2-zSeRlnp7X9FkoLPt17KKthdKXXL8cKrS9F-GD2aRPdrwobZwCotiFztPiqloHA3Z7_kyOfkxYKMI0DwRBZU4sebcbt2POasMNt1KXdg9AuUoKjISgt8kpjW73_lyU5OaQ3B1atvm3GgdlgAptORvwuLDeRrKj8qQqKWhzhmedRFHB">
+<div class="play-overlay absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 transform scale-90 transition-all duration-300">
+<span class="material-symbols-outlined text-white text-5xl" style="font-variation-settings: &quot;FILL&quot; 1;">play_circle</span>
+</div>
+</div>
+<div class="text-center">
+<h4 class="font-title-md text-on-surface">FM 96.5 คลื่นความคิด Thinking Radio</h4>
+</div>
+</div>
+<!-- Card 7: 93.5 Top Radio FM -->
+<div class="station-card group flex flex-col gap-3 cursor-pointer">
+<div class="relative aspect-square bg-surface-container rounded-xl overflow-hidden hover:ring-1 hover:ring-primary/30 transition-all">
+<img alt="93.5 Top Radio FM" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuALiZ7b55Bb-zVMOWfWbFj06GBVTO-VPrI-1OJe7Nic-sdWxrxSVLaztZ60YZGlMf6kE_HocLPuys8jqpIiEY_fj57uarTfQ-9pbIEHItcyLW1G3H5p0vASMVpUdD6qQK_iVXDcSmomiW9C4lRKBL4TYS2XvxWieSulR8VpQR2uFk6SVnvmxJC8oo0fyxFhWqHQjTBCkg8OgpWFb0TtyCO-NpDP0AW5291IxNvaZYMyGljgrLAE7NEUeehKDuiuUtSs2m-Zt_XV3aP9">
+<div class="play-overlay absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 transform scale-90 transition-all duration-300">
+<span class="material-symbols-outlined text-white text-5xl" style="font-variation-settings: &quot;FILL&quot; 1;">play_circle</span>
+</div>
+</div>
+<div class="text-center">
+<h4 class="font-title-md text-on-surface">93.5 Top Radio FM</h4>
+</div>
+</div>
+<!-- Card 8: EFM 94.0 -->
+<div class="station-card group flex flex-col gap-3 cursor-pointer">
+<div class="relative aspect-square bg-surface-container rounded-xl overflow-hidden hover:ring-1 hover:ring-primary/30 transition-all">
+<img alt="EFM 94.0" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuA6_Uu_wk42C6iZSa0Iuv2cyX_5H16dMJrNwxncPsM7XDrFTOS6IX9N0-cPeHSDrwfwPkwFbtzItpMW7sAwmCU7MnSI_X_YUKmkT198Yz_4gCyIBlk3FFH6PIN15F746SohjEHgl7KOH2ENgtA6zVqaSdh1Ck4LlsyqcpQySK-BIiwtc40jC6gqPUgShceUHn-Vcfbg5_73-YewmUvrk8fxDUvs7CIUYDL1RrKl1ld_eZm9X13AOZJ0DUH_NFcAhdMtWSyf5noHk1jA">
+<div class="play-overlay absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 transform scale-90 transition-all duration-300">
+<span class="material-symbols-outlined text-white text-5xl" style="font-variation-settings: &quot;FILL&quot; 1;">play_circle</span>
+</div>
+</div>
+<div class="text-center">
+<h4 class="font-title-md text-on-surface">EFM 94.0</h4>
+</div>
+</div>
+<!-- Card 9: สถานีเพลงเพื่อชีวิต Request Radio For Life -->
+<div class="station-card group flex flex-col gap-3 cursor-pointer">
+<div class="relative aspect-square bg-surface-container rounded-xl overflow-hidden hover:ring-1 hover:ring-primary/30 transition-all">
+<img alt="ȢȄȲșȵȠȑȥȇȠȷȲȡȧȴȧȴȕ Request Radio For Life" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBOx6eyykhF8boP7QYKdRw1whISzrX7s4pP1OvHbrj1fRcLWaILrgUDByPjv8WLGPcuTF_odZoPrdyRV572zZ4HLbf6Dm-e5qmz4hksNNnOqkR4VBt66_VPBBNkx_iLIeeKJk9zzs61OTrUENJfE13d2LYWcuGim8f8xBcmfWuncQl94_jAon3ff3AN8ZmfgHbbXDtUn0dpSecaztCE-Cn9RXNMs8HlZddDSdLj-JNi8gNXoLdyu7aYTwiTxmzO4VV0tGYPHQ1PzQ2_">
+<div class="play-overlay absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 transform scale-90 transition-all duration-300">
+<span class="material-symbols-outlined text-white text-5xl" style="font-variation-settings: &quot;FILL&quot; 1;">play_circle</span>
+</div>
+</div>
+<div class="text-center">
+<h4 class="font-title-md text-on-surface">สถานีเพลงเพื่อชีวิต Request Radio For Life</h4>
+</div>
+</div>
+<!-- Card 10: เพลงสตริงเก่า Eingdoi Radio -->
+<div class="station-card group flex flex-col gap-3 cursor-pointer">
+<div class="relative aspect-square bg-surface-container rounded-xl overflow-hidden hover:ring-1 hover:ring-primary/30 transition-all">
+<img alt="ȠȥȇȡȕȣȴȇȠȲȡ Eingdoi Radio" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBBUzrtUBu2QIF5WbOE5zggydGxtIiPQlWwK5Cb2IGbXAZbiUuYTUCvJbtgP9h0RXDWpmgzwbuSymWvZLG9jCYpK8kJHUWpfKPusfd6Kx55PXMi96HnKy8ioQGjKEfBAFJJhFgimxHGuru2_QMOEqrOtw1Say6UmrqgVYOBQ-mX2_qpiWtH0mDr-bu0FYKYOXwI3VFNFM8C0ndJjWGp4DqmkQHpvNn78YJaZ9sovnm4tD6cUaqHpRxcjOlmtX5X_KogAtP_fV6rX3Hk">
+<div class="play-overlay absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 transform scale-90 transition-all duration-300">
+<span class="material-symbols-outlined text-white text-5xl" style="font-variation-settings: &quot;FILL&quot; 1;">play_circle</span>
+</div>
+</div>
+<div class="text-center">
+<h4 class="font-title-md text-on-surface">เพลงสตริงเก่า Eingdoi Radio</h4>
+</div>
+</div>
+<!-- Card 11: GREAT 93 | ONLINE -->
+<div class="station-card group flex flex-col gap-3 cursor-pointer">
+<div class="relative aspect-square bg-surface-container rounded-xl overflow-hidden hover:ring-1 hover:ring-primary/30 transition-all">
+<img alt="GREAT 93 | ONLINE" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBlcT1bXHIGqg7FjHyEhC5UnoF1bSxmisiNxg-_HWvvuJ1u4KAuJ02yLk4Zm3ShdeS-DXELf6IG38VGKK2TlvBpjEJRXZqczZZOgPiubSyF723Y-HKkQH_I8-CtfqQxlSqIYVrHzbw49zflCauVwiZMeWXEXf_Wqvn5LB0b2i3sm2Iiz-lD1sqAm5AUub53AnEwlBHblQy14hC3xHE59JEkosX1Zqa4IA4fEl1SICEk9dbjx6DJj6_M0I7U2J8lHQBvgTJJbxgkczw_">
+<div class="play-overlay absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 transform scale-90 transition-all duration-300">
+<span class="material-symbols-outlined text-white text-5xl" style="font-variation-settings: &quot;FILL&quot; 1;">play_circle</span>
+</div>
+</div>
+<div class="text-center">
+<h4 class="font-title-md text-on-surface">GREAT 93 | ONLINE</h4>
+</div>
+</div>
+<!-- Card 12: ลูกทุ่งเน็ตเวิร์ (Looktung Network) -->
+<div class="station-card group flex flex-col gap-3 cursor-pointer">
+<div class="relative aspect-square bg-surface-container rounded-xl overflow-hidden hover:ring-1 hover:ring-primary/30 transition-all">
+<img alt="ลูกทุ่งเน็ตเวิร์ (Looktung Network)" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAi6kdxcD9K2lsKpa47iJpv8Db7KAJtrKjFcSTA7cR0hvzOcVukff6au6hJJ3Hg3EuApFVg25kjd-iufAXOti8JiXOR55LjwBeXJCfhIu8owbf_KZNWAHkz7HCPwCrm_u7lA2_uWUqdodCZJyrLH2cPuN-Ypv7fpju-MlZZN6-8ecQV4tFRYu5VhMhqSIqmf7XVNyFj25JpTDIbL5rJJyVbREnHpLlrXk3M_hpMXOpOtceTFISCM0Zq6LtYsme5orGA1TkTFFmvRpOT">
+<div class="play-overlay absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 transform scale-90 transition-all duration-300">
+<span class="material-symbols-outlined text-white text-5xl" style="font-variation-settings: &quot;FILL&quot; 1;">play_circle</span>
+</div>
+</div>
+<div class="text-center">
+<h4 class="font-title-md text-on-surface">ลูกทุ่งเน็ตเวิร์ (Looktung Network)</h4>
+</div>
+</div>
+<!-- Card 13: Talay 90.25 -->
+<div class="station-card group flex flex-col gap-3 cursor-pointer">
+<div class="relative aspect-square bg-surface-container rounded-xl overflow-hidden hover:ring-1 hover:ring-primary/30 transition-all">
+<img alt="Talay 90.25" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDdZCGBMd9RwAL-cb-11ck5e_w6oGY3rfi9MKXTYesWz5u7r5ENnsmjsYXSdBnjmkLUOHlJBuIBLQz-psEGKhsiUWgbR7_-QVqdpp4H-Lv2Drm_NWyHB1FHNyUIeHCjn0yHQ1VTbZYciWNCYcc6vMm4CZAKQDkpopJOtvBs9IoM3CX40pjPePsxzgBu_UOlOfQ-0a8PBGbGGZkZp-uTJJ7IxzPOGJbHtxJ11gpvTwjiX-A5cQUwSGXl-h88lINKi4UwmMao5uvqwkfv">
+<div class="play-overlay absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 transform scale-90 transition-all duration-300">
+<span class="material-symbols-outlined text-white text-5xl" style="font-variation-settings: &quot;FILL&quot; 1;">play_circle</span>
+</div>
+</div>
+<div class="text-center">
+<h4 class="font-title-md text-on-surface">Talay 90.25</h4>
+</div>
+</div>
+<!-- Card 14: 106 ครอบครัวข่าว -->
+<div class="station-card group flex flex-col gap-3 cursor-pointer">
+<div class="relative aspect-square bg-surface-container rounded-xl overflow-hidden hover:ring-1 hover:ring-primary/30 transition-all">
+<img alt="106 ครอบครัวข่าว" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDXjevTPM1dc3exNQJZOX64xoFDumq51ZBquywO41JgV4eOO_1PENs7NmtapxIG4W4j5upQKZ5M-NW6V6l7oUi4b2aNoIeSaT72LCvqi5DxGMqw0B2a1eWZ2G-BUS8rDxk104vssnU_JU7BBndl-3B3JxjNiyWcvqseOlsLhPK0IVGG1Nj0Ge2559E1cER2TI3xgE6EMFK9Y2WQjiElUVPS6MOGMTmMOxBKEG67Lp6JiQgp1SR8n_ZpX_7asME0H4PItXnrT2DiEI3R">
+<div class="play-overlay absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 transform scale-90 transition-all duration-300">
+<span class="material-symbols-outlined text-white text-5xl" style="font-variation-settings: &quot;FILL&quot; 1;">play_circle</span>
+</div>
+</div>
+<div class="text-center">
+<h4 class="font-title-md text-on-surface">106 ครอบครัวข่าว</h4>
+</div>
+</div></div>
+</main>
+</div>
+<!-- Persistent Playback Bar (Footer) -->
+<footer class="fixed bottom-0 left-0 w-full z-50 glass-player px-gutter h-24 flex items-center justify-between border-t border-white/5">
+<!-- Currently Playing -->
+<div class="flex items-center gap-4 w-1/4">
+<img class="w-14 h-14 rounded-lg object-cover" data-alt="Thumbnail for the currently playing radio station COOL Fahrenheit, featuring warm orange and violet color transitions. The image is sharp and professionally edited for a luxury audio experience app." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAe7VUNkSG42tHzZIytd5zT0Kb7m3ZSjv6zYAkjz9dZ_OIfImvRddLXP_mA0EI-vnUK4xl2RafhXmU43LdDqhphXPUbgKlN6NI9ESn4LXiTzW2okNKRxBM5jOZBULVrUI2XP01eLym2zbN4ivAYcT8XQH1Y5kkGeywQ4rN4QxBetFzzJI73WfXnhE6zXvPZWfjF3yLyLfFDtVQtrte1Uw-eMl_ZFgShdcCHhs9TjwYOxc92y3DbTK__k_8UBxVgAtmgepetaOUNbFb5">
+<div class="overflow-hidden">
+<p class="font-title-md text-on-surface truncate">COOL fahrenheit 93°</p>
+<p class="font-body-sm text-primary animate-pulse">สด - กำลังออกอากาศ</p>
+</div>
+<button class="text-on-surface-variant hover:text-primary transition-colors">
+<span class="material-symbols-outlined">favorite</span>
+</button>
+</div>
+<!-- Player Controls -->
+<div class="flex flex-col items-center gap-2 w-1/2">
+<div class="flex items-center gap-6">
+<button class="text-on-surface-variant hover:text-on-surface transition-colors">
+<span class="material-symbols-outlined">shuffle</span>
+</button>
+<button class="text-on-surface-variant hover:text-on-surface transition-colors">
+<span class="material-symbols-outlined">skip_previous</span>
+</button>
+<button class="bg-primary text-on-primary-container p-3 rounded-full flex items-center justify-center hover:scale-105 active:scale-95 transition-transform aspect-square w-14 h-14">
+<span class="material-symbols-outlined text-3xl" style="font-variation-settings: &quot;FILL&quot; 1;">pause</span>
+</button>
+<button class="text-on-surface-variant hover:text-on-surface transition-colors">
+<span class="material-symbols-outlined">skip_next</span>
+</button>
+<button class="text-on-surface-variant hover:text-on-surface transition-colors">
+<span class="material-symbols-outlined">repeat</span>
+</button>
+</div>
+<!-- Progress Bar -->
+<div class="flex items-center gap-3 w-full max-w-xl group">
+<span class="font-label-sm text-[10px] text-on-surface-variant">01:00</span>
+<div class="flex-1 h-1.5 bg-surface-container-high rounded-full relative overflow-hidden cursor-pointer">
+<div class="absolute left-0 top-0 h-full w-1/3 bg-primary transition-all"></div>
+</div>
+<span class="font-label-sm text-[10px] text-on-surface-variant">03:45</span>
+</div>
+</div>
+<!-- System Controls -->
+<div class="flex items-center justify-end gap-6 w-1/4">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-on-surface-variant">volume_up</span>
+<div class="w-24 h-1 bg-surface-container-high rounded-full overflow-hidden">
+<div class="w-3/4 h-full bg-on-surface-variant"></div>
+</div>
+</div>
+<button class="text-on-surface-variant hover:text-on-surface transition-colors">
+<span class="material-symbols-outlined">cast</span>
+</button>
+<button class="text-on-surface-variant hover:text-on-surface transition-colors">
+<span class="material-symbols-outlined">playlist_play</span>
+</button>
+</div>
+</footer>
+<!-- FAB for mobile support (Contextual) -->
+<button class="md:hidden fixed bottom-28 right-6 bg-primary text-on-primary-container w-14 h-14 rounded-full shadow-2xl flex items-center justify-center transition-transform active:scale-90">
+<span class="material-symbols-outlined text-3xl">play_arrow</span>
+</button>
 
-    <footer class="fixed bottom-0 left-0 w-full p-4 bg-gray-900 border-t border-gray-700">
-        <div class="max-w-4xl mx-auto flex items-center gap-4">
-            <audio id="audio-player" controls class="flex-1"></audio>
-            <p id="now-playing" class="text-white font-medium">คลิกสถานีเพื่อเริ่มฟัง</p>
-        </div>
-    </footer>
+<script>
+// 1. ข้อมูลสถานีที่คุณเตรียมไว้
+const stations = [
+  { "name": "COOL Fahrenheit 93 FM", "url": "https://coolism-web.cdn.byteark.com/;stream/1", "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBDVj7YX4-zCx2lOTaNfsiSWD5dgkJs-KEgrZoOHPzd0vEiSYZljPBuxdY0gceW2YgWZAC7eC3aass9_dHoZCliRve6uWrZMCZh292K4qujcMXya8WjHf9j-Pr5DLzIesqYelFt9bvihkcAWecA0xhBSYD2oVt-hU5CKRvmJIVHdLSvQvDjcmKEwEhc4bMXhqqXywOtwjFex2Pn4BsbIudHFCs0VZB23JuC8l_LF62zjou3SfwEPPihbeakPHObzKkkbNj5UjSaiUS7" },
+  { "name": "Green Wave 106.5 FM", "url": "https://atimeonline3.smartclick.co.th/green", "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAQB_V1CD1jYE1KzgmFvuW-mVtRp2OpK7Mt8nheh03-jrdikgdLMYWeIYxw2S7yITsQwWgX-aumld74jUSqPHYfQYDFvxjH1N4VL0MHkEQBg7wIKJqMu7JG0Ao5QoiW5uJpE80fQqil1TY3kL-n8mjFycaDzUqm-z6bLCUbmejNw_KAV6Ie9eHnyFJya45uisiD2SB8dHFFtuW5LobF0iAO4y9Btm8WdQuQ_zks2eNrjH4XRxTn8Jw59drp7Yo7MuFCP7q8x_2dJzwv" },
+  { "name": "FLEX 104.5 FM", "url": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8", "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAAQuz6HLCTeXKynejOV6635QNzANe9hCQ6oRIx8Yj8GdkBDywSVjeSVIYleYLK2TuaETzQb-8LNh73R0RtKxD9lS-0a4aejNFeqrVVmkxkbrKP7sdTF4PhYELfVvNWYtjPMgf7rl2sOCltpgIHTBUvM1Pc9hnsFVIMSLeaXtJBXtUrev1vuLQ5jTQunuOEVCVXwazOtIvZSViquuksgDvFN7Y6PXf81qMGGGswIW4iMZvEX1bLys_T-4CO2jll6uB53hjQtcZAyLKk" }
+  // ... เพิ่มสถานีอื่นๆ ตามไฟล์ station-list.txt ของคุณได้เลย
+];
 
-    <script>
-        const stations = [
-            { "name": "COOL Fahrenheit 93 FM", "url": "https://coolism-web.cdn.byteark.com/;stream/1", "image": "https://tjradio.com/media/150px-logo/cool-fahrenheit-93.png", "type": "audio" },
-            { "name": "Green Wave 106.5 FM", "url": "https://atimeonline3.smartclick.co.th/green", "image": "https://tjradio.com/media/150px-logo/green-wave-1065-fm.jpg", "type": "audio" },
-            { "name": "FLEX 104.5 FM", "url": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8", "image": "https://tjradio.com/media/150px-logo/flex-1045-fm.jpeg", "type": "hls" },
-            { "name": "FM 95 ลูกทุ่งมหานคร อสมท", "url": "https://t24d2ljc.mcot.net/FM95/fm95.stream_aac/playlist.m3u8", "image": "https://tjradio.com/media/150px-logo/ltmfm95.png", "type": "hls" },
-            { "name": "FM 99 Active Radio", "url": "https://uiu6f1j7.mcot.net/FM99/fm99.stream_aac/playlist.m3u8", "image": "https://tjradio.com/media/150px-logo/fm-99-active-radio.png", "type": "hls" },
-            { "name": "FM 96.5 คลื่นความคิด Thinking Radio", "url": "https://live-org-01-cdn.mcot.net/radiocdn_edge/fm965.stream_aac/media-utsgikmde_272267.aac", "image": "https://tjradio.com/media/150px-logo/thinking-radio-fm-965.png", "type": "audio" }
-        ];
+// 2. สร้าง Audio Object
+const audioPlayer = new Audio();
 
-        const grid = document.getElementById('station-grid');
-        const audio = document.getElementById('audio-player');
-        const nowPlaying = document.getElementById('now-playing');
-        let hls;
+// 3. ฟังก์ชันเล่นเพลง
+function playStation(index) {
+    const station = stations[index];
+    audioPlayer.src = station.url;
+    audioPlayer.play();
+    
+    // อัปเดต UI ที่ Footer (ถ้าคุณต้องการให้ชื่อสถานีที่เล่นขึ้นตรงนี้)
+    console.log("กำลังเล่น:", station.name);
+}
 
-        stations.forEach((s) => {
-            const card = document.createElement('div');
-            card.className = 'bg-gray-800 p-4 rounded-xl cursor-pointer hover:bg-gray-700 transition border border-gray-700';
-            card.innerHTML = `<img src="${s.image}" class="rounded-lg mb-2 w-full h-32 object-cover"><h4 class="text-white text-sm font-semibold">${s.name}</h4>`;
-            
-            card.onclick = () => {
-                nowPlaying.innerText = "กำลังเล่น: " + s.name;
-                
-                if (hls) hls.destroy();
+// 4. ผูกฟังก์ชันเข้ากับ Card ใน HTML
+// ใน HTML ของคุณ ให้ใส่ onclick="playStation(0)" ใน div ของแต่ละ Card (เรียงตามลำดับ 0, 1, 2...)
+</script>
 
-                if (s.type === 'hls' && Hls.isSupported()) {
-                    hls = new Hls();
-                    hls.loadSource(s.url);
-                    hls.attachMedia(audio);
-                } else {
-                    audio.src = s.url;
-                }
 
-                // สั่งเล่นพร้อมแจ้งเตือนหากเบราว์เซอร์บล็อก
-                audio.play().catch(() => {
-                    alert("เบราว์เซอร์บล็อกการเล่นอัตโนมัติ: โปรดกดปุ่ม Play ที่แถบสีเทาด้านล่างครับ");
-                });
-            };
-            grid.appendChild(card);
-        });
-    </script>
-</body>
-</html>
+</body></html>
+
+ผมไม่ได้จัดการ bandwidth เอง
+เป็นแค่เวบรวมลิงก์
+
