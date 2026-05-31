@@ -1,0 +1,86 @@
+[  {
+    "name": "COOL Fahrenheit 93 FM",
+    "url": "https://coolism-web.cdn.byteark.com/;stream/1",
+    "image_url": "https://tjradio.com/media/150px-logo/cool-fahrenheit-93.png",
+    "type": "audio"
+  },
+  {
+    "name": "Green Wave 106.5 FM",
+    "url": "https://atimeonline3.smartclick.co.th/green",
+    "image_url": "https://tjradio.com/media/150px-logo/green-wave-1065-fm.jpg",
+    "type": "audio"
+  },
+  {
+    "name": "FLEX 104.5 FM",
+    "url": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8",
+    "image_url": "https://tjradio.com/media/150px-logo/flex-1045-fm.jpeg",
+    "type": "hls"
+  },
+  {
+    "name": "FM 95 ลูกทุ่งมหานคร อสมท",
+    "url": "https://t24d2ljc.mcot.net/FM95/fm95.stream_aac/playlist.m3u8",
+    "image_url": "https://tjradio.com/media/150px-logo/ltmfm95.png",
+    "type": "hls"
+  },
+  {
+    "name": "FM 99 Active Radio",
+    "url": "https://uiu6f1j7.mcot.net/FM99/fm99.stream_aac/playlist.m3u8",
+    "image_url": "https://tjradio.com/media/150px-logo/fm-99-active-radio.png",
+    "type": "hls"
+  },
+  {
+    "name": "FM 96.5 คลื่นความคิด Thinking Radio",
+    "url": "https://live-org-01-cdn.mcot.net/radiocdn_edge/fm965.stream_aac/media-utsgikmde_272267.aac",
+    "image_url": "https://tjradio.com/media/150px-logo/thinking-radio-fm-965.png",
+    "type": "audio"
+  },
+  {
+    "name": "93.5 Top Radio FM",
+    "url": "https://a10.asurahosting.com:8250/radio.mp3",
+    "image_url": "https://tjradio.com/media/150px-logo/top-radio-fm-935.png",
+    "type": "audio"
+  },
+  {
+    "name": "EFM 94.0",
+    "url": "https://atimeonline3.smartclick.co.th/efm",
+    "image_url": "https://tjradio.com/media/150px-logo/efm-94.jpeg",
+    "type": "audio"
+  },
+  {
+    "name": "สถานีเพลงเพื่อชีวิต Request Radio For Life",
+    "url": "https://cast.requestradio.in.th:830/https:/cast.requestradio.in.th:830/",
+    "image_url": "https://tjradio.com/media/150px-logo/request-radio-for-life.png",
+    "type": "audio"
+  },
+  {
+    "name": "เพลงสตริงเก่า Eingdoi Radio",
+    "url": "https://radio1.ohmi-design.com/8170/;",
+    "image_url": "https://tjradio.com/media/150px-logo/eingdoi-radio.jpg",
+    "type": "audio"
+  },
+  {
+    "name": "GREAT 93 | ONLINE",
+    "url": "https://radio.vpsthai.net/proxy/qndrbfic/stream2",
+    "image_url": "https://tjradio.com/media/150px-logo/great-93.png",
+    "type": "audio"
+  },
+  {
+    "name": "ลูกทุ่งเน็ตเวิร์ (Looktung Network)",
+    "url": "https://live.primis.tech/live/liveCS.php",
+    "image_url": "https://tjradio.com/media/150px-logo/looktung-network.png",
+    "type": "audio"
+  },
+  {
+    "name": "Talay 90.25",
+    "url": "https://stream.talay.asia/talay",
+    "image_url": "https://tjradio.com/media/150px-logo/talay-9025.png",
+    "type": "audio"
+  },
+  {
+    "name": "106 ครอบครัวข่าว",
+    "url": "https://media.onair.one:8110/106",
+    "image_url": "https://tjradio.com/media/150px-logo/106-family-news.png",
+    "type": "audio"
+  },
+
+]

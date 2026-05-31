@@ -1,0 +1,3606 @@
+
+<!DOCTYPE html>
+<html lang="th" data-assets-base-url="https://cdn.regional-radios.app-mind.com/static/assets/">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
+
+    <link rel="dns-prefetch" href="https://cdn.regional-radios.app-mind.com" />
+	    
+	        <link rel="dns-prefetch" href="https://static.mytuner.mobi" />
+	    
+<title>สถานีวิทยุไทย: ฟังวิทยุออนไลน์ 24 ชั่วโมง</title>
+    <meta name="description" content="รวมสถานีวิทยุไทยชั้นนำกว่า 200 สถานี ฟังเพลงฮิต ข่าวสาร และพอดแคสต์ได้ง่ายๆ บนเว็บไซต์ของเรา เพลิดเพลินกับการฟังวิทยุออนไลน์ 24 ชั่วโมง แบบไม่มีสะดุด" /><link rel="shortcut icon" href="https://cdn.regional-radios.app-mind.com/static/assets/images/favicon/th/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.regional-radios.app-mind.com/static/assets/images/favicon/th/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.regional-radios.app-mind.com/static/assets/images/favicon/th/favicon-16x16.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.regional-radios.app-mind.com/static/assets/images/favicon/th/apple-touch-icon.png" />
+        <link rel="manifest" href="/manifest.json" />
+        <link rel="mask-icon" href="https://cdn.regional-radios.app-mind.com/static/assets/images/favicon/th/safari-pinned-tab.svg" color="#0066cc" />
+        <meta name="msapplication-TileColor" content="#0066cc" />
+        <meta name="msapplication-config" content="https://cdn.regional-radios.app-mind.com/static/assets/images/favicon/th/browserconfig.xml" /><link rel="canonical" href="https://www.radio-thai.com/" />
+        <meta property="al:web:url" content="https://www.radio-thai.com/" />
+        <meta property="og:url" content="https://www.radio-thai.com/" />
+        <meta name="twitter:url" content="https://www.radio-thai.com/" /><meta property="og:type" content="website" />
+    <meta property="og:title" content="สถานีวิทยุไทย: ฟังวิทยุออนไลน์ 24 ชั่วโมง" />
+    <meta property="og:site_name" content="วิทยุออนไลน์" />
+    <meta property="og:description" content="รวมสถานีวิทยุไทยชั้นนำกว่า 200 สถานี ฟังเพลงฮิต ข่าวสาร และพอดแคสต์ได้ง่ายๆ บนเว็บไซต์ของเรา เพลิดเพลินกับการฟังวิทยุออนไลน์ 24 ชั่วโมง แบบไม่มีสะดุด" /><meta property="og:image" content="https://cdn.regional-radios.app-mind.com/static/assets/images/favicon/th/android-chrome-256x256.png" /><meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="สถานีวิทยุไทย: ฟังวิทยุออนไลน์ 24 ชั่วโมง" />
+    <meta name="twitter:description" content="รวมสถานีวิทยุไทยชั้นนำกว่า 200 สถานี ฟังเพลงฮิต ข่าวสาร และพอดแคสต์ได้ง่ายๆ บนเว็บไซต์ของเรา เพลิดเพลินกับการฟังวิทยุออนไลน์ 24 ชั่วโมง แบบไม่มีสะดุด" /><meta name="twitter:image" content="https://cdn.regional-radios.app-mind.com/static/assets/images/favicon/th/android-chrome-256x256.png" />
+    <script>
+        (function() {
+            
+            var savedTheme = localStorage.getItem('theme');
+
+            if (savedTheme) {
+                
+                document.documentElement.setAttribute('data-theme', savedTheme);
+            } else {
+                
+                var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+                var initialTheme = prefersDark ? 'dark' : 'light';
+                document.documentElement.setAttribute('data-theme', initialTheme);
+            }
+        })();
+    </script>
+
+    <meta name="theme-color" content="#0066cc" />
+
+	    
+	        
+	            <link rel="stylesheet" href="https://cdn.regional-radios.app-mind.com/static/assets/css/app-59d549b8.css">
+	        
+    
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-41201130-16"></script>
+    <script>window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag("js", new Date());
+        gtag("config", "UA-41201130-16");</script>
+    
+
+    
+    
+        <link rel="preload" href="https://static.mytuner.mobi/media/radios-150px/KvDHAwT62s.png" as="image" fetchpriority="high">
+    
+
+</head>
+<body data-country-code="th"
+      data-authenticated="false"
+      
+      data-api-base-url="https://www.radio-thai.com">
+    
+    
+        <div class="ad-box" style="position:fixed;top:0;left:0;" aria-hidden="true">&nbsp;</div>
+    
+
+	<div id="header-container">
+        
+<header class="header" role="banner">
+  <div class="header__inner">
+    
+    
+    <a href="https://www.radio-thai.com/" class="header__brand" title="ไปที่หน้าแรก">
+      
+        <img src="https://cdn.regional-radios.app-mind.com/static/assets/images/flags/th.png" alt="Thailand" class="header__logo-flag" width="32" height="32" loading="lazy" />
+        <span class="header__logo-text header__logo-text--desktop">วิทยุออนไลน์</span>
+      
+    </a>
+
+    <div class="header__search">
+      <span
+        id="header-search-icon"
+        class="header__search-icon ui-sprite ui-sprite--search_light--16x16"
+        data-ui-base="search"
+        data-ui-size="16x16"
+        aria-hidden="true"
+      ></span>
+      <form action="https://www.radio-thai.com/search" method="get" class="header__search-form" role="search" aria-label="ค้นหา">
+        <input
+          type="search"
+          id="header-search"
+          name="q"
+          class="header__search-input"
+          placeholder="ค้นหาสถานีวิทยุ"
+          title="ค้นหาสถานีวิทยุ"
+          aria-label="ค้นหาสถานีวิทยุ"
+          value=""
+        />
+      </form>
+    </div>
+
+    <nav class="header__tags header__tags--desktop" aria-label="แท็กด่วน">
+      <ul class="header__tags-list">
+        <li class="header__tags-item"><a href="https://www.radio-thai.com/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B8%E0%B8%AA%E0%B9%8D%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B9%8D%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%99/" class="header__tags-link header__tags-link--trabalhar" title="วิทยุสำหรับทำงาน">ทำงาน</a></li>
+        <li class="header__tags-item"><a href="https://www.radio-thai.com/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B8%E0%B8%AA%E0%B9%8D%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%81%E0%B9%8D%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2/" class="header__tags-link header__tags-link--ginasio" title="วิทยุสำหรับออกกำลังกาย">ออกกำลังกาย</a></li>
+        <li class="header__tags-item"><a href="https://www.radio-thai.com/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B8%E0%B8%AA%E0%B9%8D%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B8%AD%E0%B8%99/" class="header__tags-link header__tags-link--dormir" title="วิทยุสำหรับนอนหลับ">นอนหลับ</a></li>
+        <li class="header__tags-item"><a href="https://www.radio-thai.com/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B8%E0%B8%AA%E0%B9%8D%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%B1%E0%B8%81%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%99/" class="header__tags-link header__tags-link--relaxar" title="วิทยุสำหรับผ่อนคลาย">ผ่อนคลาย</a></li>
+        <li class="header__tags-item"><a href="https://www.radio-thai.com/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B8%E0%B8%AA%E0%B9%8D%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87/" class="header__tags-link header__tags-link--viagem" title="วิทยุสำหรับเดินทาง">เดินทาง</a></li>
+      </ul>
+    </nav>
+
+    <div class="header__actions">
+      <button type="button" class="header__theme-switch" id="theme-toggle" title="สลับธีมสว่าง/มืด" aria-label="สลับธีม">
+        <span class="header__theme-icon ui-sprite ui-sprite--light_theme--16x16" aria-hidden="true"></span>
+        <span class="header__theme-icon ui-sprite ui-sprite--dark_theme--16x16" aria-hidden="true"></span>
+        <span class="header__theme-knob ui-sprite ui-sprite--theme_switch--26x26" aria-hidden="true"></span>
+      </button>
+      <button class="header__theme-button" id="theme-toggle-button" type="button" title="สลับธีมสว่าง/มืด" aria-label="สลับธีม">
+        <span
+          class="header__theme-button-icon ui-sprite ui-sprite--light_theme--20x20"
+          id="theme-button-icon"
+          data-ui-size="20x20"
+          aria-hidden="true"
+        ></span>
+      </button>
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+</header>
+
+	</div>
+
+    <div class="page-layout">
+        <div id="sidebar-container">
+			
+<aside class="sidebar" role="complementary" aria-label="แถบนำทางด้านข้าง">
+  <div class="sidebar__inner">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <div class="sidebar__ad sidebar__ad--skyscraper" id="sidebar-ad-slot">
+          <div data-fuse="22895977659"></div>
+        </div>
+      
+    
+    
+    
+    <section class="sidebar__section">
+      <a href="https://www.radio-thai.com/my-list" class="sidebar__nav-item" id="nav-my-grid" title="รายการโปรด">
+        <span
+          id="icon-my-grid"
+          class="sidebar__nav-icon ui-sprite ui-sprite--heart_light--24x24"
+          data-ui-base="heart"
+          data-ui-size="24x24"
+          data-ui-has-active="true"
+          aria-hidden="true"
+        ></span>
+        <div class="sidebar__nav-text">
+          <span class="sidebar__nav-title">รายการโปรด</span>
+          <span class="sidebar__nav-subtitle">รายการโปรดและล่าสุด</span>
+        </div>
+        <span class="sidebar__nav-badge" id="my-grid-count" hidden></span>
+      </a>
+    </section>
+
+    
+    <section class="sidebar__section">
+      <div class="sidebar__section-header">วิทยุ</div>
+      
+      <a href="https://www.radio-thai.com/" class="sidebar__nav-item sidebar__nav-item--active" id="nav-top-radios" title="วิทยุยอดนิยม">
+        <span
+          id="icon-top-radios"
+          class="sidebar__nav-icon ui-sprite ui-sprite--top_radios_light_active--24x24"
+          data-ui-base="top_radios"
+          data-ui-size="24x24"
+          data-ui-has-active="true"
+          aria-hidden="true"
+        ></span>
+        <div class="sidebar__nav-text">
+          <span class="sidebar__nav-title">วิทยุยอดนิยม</span>
+          <span class="sidebar__nav-subtitle">วิทยุที่ฟังมากที่สุด</span>
+        </div>
+        <span class="sidebar__nav-badge">415</span>
+      </a>
+      
+      
+      
+      
+      
+      
+      
+      <div class="sidebar__dropdown-container">
+        <a href="https://www.radio-thai.com/genre" class="sidebar__nav-item sidebar__nav-item--dropdown-toggle" id="nav-genre-radios" title="วิทยุตามประเภท">
+          <span
+            id="icon-genre-radios"
+            class="sidebar__nav-icon ui-sprite ui-sprite--genre_light--24x24"
+            data-ui-base="genre"
+            data-ui-size="24x24"
+            data-ui-has-active="true"
+            aria-hidden="true"
+          ></span>
+          <div class="sidebar__nav-text">
+            <span class="sidebar__nav-title">วิทยุตามประเภท</span>
+            <span class="sidebar__nav-subtitle">15 ประเภทเพลง</span>
+          </div>
+          <span
+            class="sidebar__nav-arrow ui-sprite ui-sprite--arrow_light--16x16"
+            data-ui-base="arrow"
+            data-ui-size="16x16"
+            aria-hidden="true"
+          ></span>
+        </a>
+        <div class="sidebar__dropdown-menu">
+          
+          <a href="https://www.radio-thai.com/genre/pop-top-40" class="sidebar__dropdown-item" title="Pop / Top 40">Pop / Top 40</a>
+          
+          <a href="https://www.radio-thai.com/genre/khluuenphuudkhuy" class="sidebar__dropdown-item" title="คลื่นพูดคุย">คลื่นพูดคุย</a>
+          
+          <a href="https://www.radio-thai.com/genre/ephlngekaayukhpii-40-50" class="sidebar__dropdown-item" title="เพลงเก่ายุคปี 40, 50">เพลงเก่ายุคปี 40, 50</a>
+          
+          <a href="https://www.radio-thai.com/genre/ephlngkhlaassikydniym" class="sidebar__dropdown-item" title="เพลงคลาสสิกยอดนิยม">เพลงคลาสสิกยอดนิยม</a>
+          
+          <a href="https://www.radio-thai.com/genre/ephlngkhanthrii" class="sidebar__dropdown-item" title="เพลงคันทรี">เพลงคันทรี</a>
+          
+          <a href="https://www.radio-thai.com/genre/ephlngyukh-80" class="sidebar__dropdown-item" title="เพลงยุค 80">เพลงยุค 80</a>
+          
+          <a href="https://www.radio-thai.com/genre/ephlngyukh-90" class="sidebar__dropdown-item" title="เพลงยุค 90">เพลงยุค 90</a>
+          
+          <a href="https://www.radio-thai.com/genre/ephlngrwmsmay" class="sidebar__dropdown-item" title="เพลงร่วมสมัย">เพลงร่วมสมัย</a>
+          
+          <a href="https://www.radio-thai.com/genre/fangngaay" class="sidebar__dropdown-item" title="ฟังง่าย">ฟังง่าย</a>
+          
+          <a href="https://www.radio-thai.com/genre/sthaaniiwaaairtii" class="sidebar__dropdown-item" title="สถานีวาไรตี้">สถานีวาไรตี้</a>
+          
+          <a href="https://www.radio-thai.com/genre" class="sidebar__dropdown-item sidebar__dropdown-item--all" title="ทั้งหมด">ทั้งหมด</a>
+        </div>
+      </div>
+      
+      
+      
+      
+      
+      <div class="sidebar__dropdown-container">
+        <a href="#" class="sidebar__nav-item sidebar__nav-item--dropdown-toggle" id="nav-world-radios" title="วิทยุตามภูมิภาค">
+          <span
+            id="icon-world-radios"
+            class="sidebar__nav-icon ui-sprite ui-sprite--world_light--24x24"
+            data-ui-base="world"
+            data-ui-size="24x24"
+            data-ui-has-active="true"
+            aria-hidden="true"
+          ></span>
+	        <div class="sidebar__nav-text">
+	            <span class="sidebar__nav-title">วิทยุตามภูมิภาค</span>
+	            <span class="sidebar__nav-subtitle">วิทยุท้องถิ่น</span>
+	          </div>
+          <span
+            class="sidebar__nav-arrow ui-sprite ui-sprite--arrow_light--16x16"
+            data-ui-base="arrow"
+            data-ui-size="16x16"
+            aria-hidden="true"
+          ></span>
+	        </a>
+	        <div class="sidebar__dropdown-menu">
+	          <a href="https://www.radio-thai.com/" class="sidebar__dropdown-item sidebar__dropdown-item--active" title="ทุกภูมิภาค">ทุกภูมิภาค</a>
+            
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/krungethph" class="sidebar__dropdown-item" title="กรุงเทพฯ">กรุงเทพฯ</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadkrabii" class="sidebar__dropdown-item" title="จังหวัดกระบี่">จังหวัดกระบี่</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadkaalsinthu" class="sidebar__dropdown-item" title="จังหวัดกาฬสินธุ์">จังหวัดกาฬสินธุ์</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadkamaephngephchr" class="sidebar__dropdown-item" title="จังหวัดกำแพงเพชร">จังหวัดกำแพงเพชร</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadkhnaekn" class="sidebar__dropdown-item" title="จังหวัดขอนแก่น">จังหวัดขอนแก่น</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadcchanthburii" class="sidebar__dropdown-item" title="จังหวัดจันทบุรี">จังหวัดจันทบุรี</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadchaechingethraa" class="sidebar__dropdown-item" title="จังหวัดฉะเชิงเทรา">จังหวัดฉะเชิงเทรา</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadchlburii" class="sidebar__dropdown-item" title="จังหวัดชลบุรี">จังหวัดชลบุรี</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadchaynaath" class="sidebar__dropdown-item" title="จังหวัดชัยนาท">จังหวัดชัยนาท</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadchayphuumi" class="sidebar__dropdown-item" title="จังหวัดชัยภูมิ">จังหวัดชัยภูมิ</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadchumphr" class="sidebar__dropdown-item" title="จังหวัดชุมพร">จังหวัดชุมพร</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadechiiyngraay" class="sidebar__dropdown-item" title="จังหวัดเชียงราย">จังหวัดเชียงราย</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadechiiyngaihm" class="sidebar__dropdown-item" title="จังหวัดเชียงใหม่">จังหวัดเชียงใหม่</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadtrang" class="sidebar__dropdown-item" title="จังหวัดตรัง">จังหวัดตรัง</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadtraad" class="sidebar__dropdown-item" title="จังหวัดตราด">จังหวัดตราด</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadtaak" class="sidebar__dropdown-item" title="จังหวัดตาก">จังหวัดตาก</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadnkhrpthm" class="sidebar__dropdown-item" title="จังหวัดนครปฐม">จังหวัดนครปฐม</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadnkhrphnm" class="sidebar__dropdown-item" title="จังหวัดนครพนม">จังหวัดนครพนม</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadnkhrraachsiimaa" class="sidebar__dropdown-item" title="จังหวัดนครราชสีมา">จังหวัดนครราชสีมา</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadnkhrsriithrrmraach" class="sidebar__dropdown-item" title="จังหวัดนครศรีธรรมราช">จังหวัดนครศรีธรรมราช</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadnkhrswrrkh" class="sidebar__dropdown-item" title="จังหวัดนครสวรรค์">จังหวัดนครสวรรค์</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadnnthburii" class="sidebar__dropdown-item" title="จังหวัดนนทบุรี">จังหวัดนนทบุรี</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadnraathiwaas" class="sidebar__dropdown-item" title="จังหวัดนราธิวาส">จังหวัดนราธิวาส</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadbuengkaal" class="sidebar__dropdown-item" title="จังหวัดบึงกาฬ">จังหวัดบึงกาฬ</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadburiiramy" class="sidebar__dropdown-item" title="จังหวัดบุรีรัมย์">จังหวัดบุรีรัมย์</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadpthumthaanii" class="sidebar__dropdown-item" title="จังหวัดปทุมธานี">จังหวัดปทุมธานี</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadpracchwbkhiiriikhanth" class="sidebar__dropdown-item" title="จังหวัดประจวบคีรีขันธ์">จังหวัดประจวบคีรีขันธ์</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadpattaanii" class="sidebar__dropdown-item" title="จังหวัดปัตตานี">จังหวัดปัตตานี</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadphrankhrsriiyuthyaa" class="sidebar__dropdown-item" title="จังหวัดพระนครศรีอยุธยา">จังหวัดพระนครศรีอยุธยา</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadphangngaa" class="sidebar__dropdown-item" title="จังหวัดพังงา">จังหวัดพังงา</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadphathlung" class="sidebar__dropdown-item" title="จังหวัดพัทลุง">จังหวัดพัทลุง</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadphicchitr" class="sidebar__dropdown-item" title="จังหวัดพิจิตร">จังหวัดพิจิตร</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadphisnuolk" class="sidebar__dropdown-item" title="จังหวัดพิษณุโลก">จังหวัดพิษณุโลก</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadephchrburii" class="sidebar__dropdown-item" title="จังหวัดเพชรบุรี">จังหวัดเพชรบุรี</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadephchrbuurn" class="sidebar__dropdown-item" title="จังหวัดเพชรบูรณ์">จังหวัดเพชรบูรณ์</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadaephr" class="sidebar__dropdown-item" title="จังหวัดแพร่">จังหวัดแพร่</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadmhaasaarkhaam" class="sidebar__dropdown-item" title="จังหวัดมหาสารคาม">จังหวัดมหาสารคาม</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadyosthr" class="sidebar__dropdown-item" title="จังหวัดยโสธร">จังหวัดยโสธร</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadyalaa" class="sidebar__dropdown-item" title="จังหวัดยะลา">จังหวัดยะลา</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadryed" class="sidebar__dropdown-item" title="จังหวัดร้อยเอ็ด">จังหวัดร้อยเอ็ด</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadranng" class="sidebar__dropdown-item" title="จังหวัดระนอง">จังหวัดระนอง</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadrayng" class="sidebar__dropdown-item" title="จังหวัดระยอง">จังหวัดระยอง</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadraachburii" class="sidebar__dropdown-item" title="จังหวัดราชบุรี">จังหวัดราชบุรี</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadlphburii" class="sidebar__dropdown-item" title="จังหวัดลพบุรี">จังหวัดลพบุรี</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadlampaang" class="sidebar__dropdown-item" title="จังหวัดลำปาง">จังหวัดลำปาง</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadlamphuun" class="sidebar__dropdown-item" title="จังหวัดลำพูน">จังหวัดลำพูน</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadely" class="sidebar__dropdown-item" title="จังหวัดเลย">จังหวัดเลย</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadsklnkhr" class="sidebar__dropdown-item" title="จังหวัดสกลนคร">จังหวัดสกลนคร</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadsngkhlaa" class="sidebar__dropdown-item" title="จังหวัดสงขลา">จังหวัดสงขลา</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadstuul" class="sidebar__dropdown-item" title="จังหวัดสตูล">จังหวัดสตูล</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadsmuthrpraakaar" class="sidebar__dropdown-item" title="จังหวัดสมุทรปราการ">จังหวัดสมุทรปราการ</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadsraaekw" class="sidebar__dropdown-item" title="จังหวัดสระแก้ว">จังหวัดสระแก้ว</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadsraburii" class="sidebar__dropdown-item" title="จังหวัดสระบุรี">จังหวัดสระบุรี</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadsinghburii" class="sidebar__dropdown-item" title="จังหวัดสิงห์บุรี">จังหวัดสิงห์บุรี</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadsuokhthay" class="sidebar__dropdown-item" title="จังหวัดสุโขทัย">จังหวัดสุโขทัย</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadsuraasdrthaanii" class="sidebar__dropdown-item" title="จังหวัดสุราษฎร์ธานี">จังหวัดสุราษฎร์ธานี</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadsurinthr" class="sidebar__dropdown-item" title="จังหวัดสุรินทร์">จังหวัดสุรินทร์</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadhnngkhaay" class="sidebar__dropdown-item" title="จังหวัดหนองคาย">จังหวัดหนองคาย</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwadaangthng" class="sidebar__dropdown-item" title="จังหวัดอ่างทอง">จังหวัดอ่างทอง</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/cchanghwaduthaythaanii" class="sidebar__dropdown-item" title="จังหวัดอุทัยธานี">จังหวัดอุทัยธานี</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/praacchiinburii" class="sidebar__dropdown-item" title="ปราจีนบุรี">ปราจีนบุรี</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/phuuekt" class="sidebar__dropdown-item" title="ภูเก็ต">ภูเก็ต</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/udrthaanii" class="sidebar__dropdown-item" title="อุดรธานี">อุดรธานี</a>
+              
+              
+              
+              
+              
+              
+              <a href="https://www.radio-thai.com/radio/ublraachthaanii" class="sidebar__dropdown-item" title="อุบลราชธานี">อุบลราชธานี</a>
+              
+              
+            
+	        </div>
+      </div>
+      
+      
+      
+      
+      
+      <a href="https://www.radio-thai.com/genre/khaawsaar" class="sidebar__nav-item" id="nav-news" title="ข่าว">
+        <span
+          id="icon-news"
+          class="sidebar__nav-icon ui-sprite ui-sprite--news_light--24x24"
+          data-ui-base="news"
+          data-ui-size="24x24"
+          aria-hidden="true"
+	        ></span>
+	        <div class="sidebar__nav-text">
+	          <span class="sidebar__nav-title">ข่าว</span>
+	          <span class="sidebar__nav-subtitle">วิทยุข่าว</span>
+	        </div>
+        <span class="sidebar__nav-badge">19</span>
+      </a>
+      
+      <a href="https://www.radio-thai.com/radio/discover-180" class="sidebar__nav-item" id="nav-recommended" title="แนะนำ">
+        <span
+          id="icon-recommended"
+          class="sidebar__nav-icon ui-sprite ui-sprite--recommended_light--24x24"
+          data-ui-base="recommended"
+          data-ui-size="24x24"
+          aria-hidden="true"
+	        ></span>
+	        <div class="sidebar__nav-text">
+	          <span class="sidebar__nav-title">แนะนำ</span>
+	          <span class="sidebar__nav-subtitle">รายชื่อวิทยุที่ดีที่สุด</span>
+	        </div>
+        
+      </a>
+    </section>
+    
+	    
+	    <section class="sidebar__section">
+	      <div class="sidebar__section-header">พอดแคสต์</div>
+      
+      <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C" class="sidebar__nav-item" id="nav-top-podcasts" title="พอดแคสต์ยอดนิยม">
+        <span
+          id="icon-top-podcasts"
+          class="sidebar__nav-icon ui-sprite ui-sprite--podcasts_light--24x24"
+          data-ui-base="podcasts"
+          data-ui-size="24x24"
+          data-ui-has-active="true"
+          aria-hidden="true"
+        ></span>
+	        <div class="sidebar__nav-text">
+	          <span class="sidebar__nav-title">พอดแคสต์ยอดนิยม</span>
+	          <span class="sidebar__nav-subtitle">พอดแคสต์ยอดนิยม</span>
+	        </div>
+        <span class="sidebar__nav-badge">50</span>
+      </a>
+      
+      <div class="sidebar__dropdown-container">
+        <a href="#" class="sidebar__nav-item sidebar__nav-item--dropdown-toggle" id="nav-genre-podcasts" title="พอดแคสต์ตามประเภท">
+          <span
+            id="icon-genre-podcasts"
+            class="sidebar__nav-icon ui-sprite ui-sprite--genre_light--24x24"
+            data-ui-base="genre"
+            data-ui-size="24x24"
+            data-ui-has-active="true"
+            aria-hidden="true"
+	          ></span>
+	          <div class="sidebar__nav-text">
+	            <span class="sidebar__nav-title">พอดแคสต์ตามประเภท</span>
+	            <span class="sidebar__nav-subtitle">18 ประเภทหัวข้อ</span>
+	          </div>
+          <span
+            class="sidebar__nav-arrow ui-sprite ui-sprite--arrow_light--16x16"
+            data-ui-base="arrow"
+            data-ui-size="16x16"
+            aria-hidden="true"
+          ></span>
+	        </a>
+	        <div class="sidebar__dropdown-menu sidebar__dropdown-menu--podcasts">
+            
+	          <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C" class="sidebar__dropdown-item sidebar__dropdown-item--active" title="ทั้งหมด">ทั้งหมด</a>
+	          <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2" class="sidebar__dropdown-item" title="การศึกษา">การศึกษา</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/kiilaa" class="sidebar__dropdown-item" title="กีฬา">กีฬา</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/khaaw" class="sidebar__dropdown-item" title="ข่าว">ข่าว</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7" class="sidebar__dropdown-item" title="เด็กและครอบครัว">เด็กและครอบครัว</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/%E0%B8%95%E0%B8%A5%E0%B8%81%20%E0%B9%80%E0%B8%9A%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%AD%E0%B8%87" class="sidebar__dropdown-item" title="ตลก เบาสมอง">ตลก เบาสมอง</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5" class="sidebar__dropdown-item" title="เทคโนโลยี">เทคโนโลยี</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5" class="sidebar__dropdown-item" title="ธุรกิจและการเงินส่วนบุคคล">ธุรกิจและการเงินส่วนบุคคล</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/nanthnaakaar" class="sidebar__dropdown-item" title="นันทนาการ">นันทนาการ</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/niyaay" class="sidebar__dropdown-item" title="นิยาย">นิยาย</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/prawatisaastr" class="sidebar__dropdown-item" title="ประวัติศาสตร์">ประวัติศาสตร์</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87" class="sidebar__dropdown-item" title="เพลง">เพลง</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/rathbaal" class="sidebar__dropdown-item" title="รัฐบาล">รัฐบาล</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C" class="sidebar__dropdown-item" title="รายการทีวีและภาพยนตร์">รายการทีวีและภาพยนตร์</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/elaakhaanaachyaakrrm" class="sidebar__dropdown-item" title="เล่าขานอาชญากรรม">เล่าขานอาชญากรรม</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/withyaasaastr" class="sidebar__dropdown-item" title="วิทยาศาสตร์">วิทยาศาสตร์</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93" class="sidebar__dropdown-item" title="ศาสนาและความเชื่อเรื่องจิตวิญญาณ">ศาสนาและความเชื่อเรื่องจิตวิญญาณ</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%B0" class="sidebar__dropdown-item" title="ศิลปะ">ศิลปะ</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1" class="sidebar__dropdown-item" title="สังคมและวัฒนธรรม">สังคมและวัฒนธรรม</a>
+            <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C/sukhphaaphaelafitens" class="sidebar__dropdown-item" title="สุขภาพและฟิตเนส">สุขภาพและฟิตเนส</a>
+            
+            
+	        </div>
+	      </div>
+      
+	    </section>
+    
+	    
+        
+	    <section class="sidebar__section">
+	      <div class="sidebar__section-header">เพลง</div>
+	      <a href="https://www.radio-thai.com/%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95" class="sidebar__nav-item" id="nav-top-music" title="เพลงยอดนิยม">
+        <span
+          id="icon-top-music"
+          class="sidebar__nav-icon ui-sprite ui-sprite--music_light--24x24"
+          data-ui-base="music"
+          data-ui-size="24x24"
+          data-ui-has-active="true"
+          aria-hidden="true"
+	        ></span>
+	        <div class="sidebar__nav-text">
+	          <span class="sidebar__nav-title">เพลงยอดนิยม</span>
+	          <span class="sidebar__nav-subtitle">เพลงที่ฟังมากที่สุด</span>
+	        </div>
+	      </a>
+	    </section>
+        
+  </div>
+</aside>
+
+        </div>
+
+        <div class="page-layout__main">
+            
+            
+                
+                        <div class="ad-top-banner">
+                            <div data-fuse="22895978130"></div>
+                        </div>
+                    
+                
+            
+            <div class="page-layout__body">
+                <div class="page-layout__center">
+                    <div class="page-layout__center-inner">
+                        
+    
+
+
+
+
+
+
+<nav class="mobile-nav-tabs" role="navigation" aria-label="การนำทางหน้า">
+  <a href="https://www.radio-thai.com/" class="mobile-nav-tabs__item mobile-nav-tabs__item--active" title="สถานี">สถานี</a>
+  <a href="https://www.radio-thai.com/%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B8%AA%E0%B8%95%E0%B9%8C" class="mobile-nav-tabs__item" title="พอดแคสต์">พอดแคสต์</a>
+  <a href="https://www.radio-thai.com/%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95" class="mobile-nav-tabs__item" title="เพลงยอดนิยม">เพลงยอดนิยม</a>
+  <a href="https://www.radio-thai.com/my-list" class="mobile-nav-tabs__item" title="รายการโปรด">รายการโปรด</a>
+</nav>
+
+    <main class="main-content" role="main">
+        <section class="radio-grid" aria-label="รายชื่อวิทยุ">
+            <header class="radio-grid__header" style="text-align: center;">
+                <h1 class="radio-grid__title">สถานีวิทยุออนไลน์ไทย 24 ชั่วโมง</h1>
+                <span class="radio-grid__badge" data-radio-count>415</span>
+            </header>
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            <div class="radio-grid__inner" id="radio-grid-container">
+	                
+	                    
+	<a href="https://www.radio-thai.com/cool-93" class="radio-card__link" title="COOL Fahrenheit 93 FM" aria-label="COOL Fahrenheit 93 FM">
+	  <article class="radio-card" data-radio-id="396327">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/KvDHAwT62s.png"
+						alt="COOL Fahrenheit 93 FM logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						fetchpriority="high" loading="eager"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">COOL Fahrenheit 93 FM</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/greenwave" class="radio-card__link" title="Green Wave 106.5 FM" aria-label="Green Wave 106.5 FM">
+	  <article class="radio-card" data-radio-id="414815">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/815/green-wave-1065-fm.ea9ba6a2.jpg"
+						alt="Green Wave 106.5 FM logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Green Wave 106.5 FM</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/flex-1045-fm" class="radio-card__link" title="FLEX 104.5 FM" aria-label="FLEX 104.5 FM">
+	  <article class="radio-card" data-radio-id="466198">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/yevk8f78cyqr.jpeg"
+						alt="FLEX 104.5 FM logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">FLEX 104.5 FM</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/90-rakthai" class="radio-card__link" title="90 ลูกทุ่ง รักไทย" aria-label="90 ลูกทุ่ง รักไทย">
+	  <article class="radio-card" data-radio-id="440172">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/vxc3vq6dxy8j.jpeg"
+						alt="90 ลูกทุ่ง รักไทย logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">90 ลูกทุ่ง รักไทย</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/ltmfm95" class="radio-card__link" title="FM 95 ลูกทุ่งมหานคร อสมท" aria-label="FM 95 ลูกทุ่งมหานคร อสมท">
+	  <article class="radio-card" data-radio-id="424379">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/379/fm-95-luukthungmhaankhr-smth.fce400b5.png"
+						alt="FM 95 ลูกทุ่งมหานคร อสมท logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">FM 95 ลูกทุ่งมหานคร อสมท</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/fm99" class="radio-card__link" title="FM 99 Active Radio" aria-label="FM 99 Active Radio">
+	  <article class="radio-card" data-radio-id="414973">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/973/fm99-active-radio.fb3cd8bf.png"
+						alt="FM 99 Active Radio logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">FM 99 Active Radio</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/fm-965" class="radio-card__link" title="FM 96.5 คลื่นความคิด Thinking Radio" aria-label="FM 96.5 คลื่นความคิด Thinking Radio">
+	  <article class="radio-card" data-radio-id="395367">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/367/fm-965-khluuenkhwaamkhid-thinking-radio.c01e225c.png"
+						alt="FM 96.5 คลื่นความคิด Thinking Radio logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">FM 96.5 คลื่นความคิด Thinking Radio</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/request-radio-music" class="radio-card__link" title="สถานีเพลงสตริง Request Radio" aria-label="สถานีเพลงสตริง Request Radio">
+	  <article class="radio-card" data-radio-id="415457">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/RKj5SekkUY.png"
+						alt="สถานีเพลงสตริง Request Radio logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">สถานีเพลงสตริง Request Radio</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/935-top-radio-fm" class="radio-card__link" title="93.5 Top Radio FM" aria-label="93.5 Top Radio FM">
+	  <article class="radio-card" data-radio-id="440178">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/178/935-top-radio-fm.80355d64.png"
+						alt="93.5 Top Radio FM logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">93.5 Top Radio FM</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/efm" class="radio-card__link" title="EFM 94.0" aria-label="EFM 94.0">
+	  <article class="radio-card" data-radio-id="414814">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/Ck8sVEmWdv.jpeg"
+						alt="EFM 94.0 logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">EFM 94.0</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/eingdoi-radio" class="radio-card__link" title="เพลงสตริงเก่า Eingdoi Radio" aria-label="เพลงสตริงเก่า Eingdoi Radio">
+	  <article class="radio-card" data-radio-id="451446">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/446/ephlngstringekaa-eingdoi-radio.79ee6ee7.jpg"
+						alt="เพลงสตริงเก่า Eingdoi Radio logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">เพลงสตริงเก่า Eingdoi Radio</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/request-radio-forlife" class="radio-card__link" title="สถานีเพลงเพื่อชีวิต Request Radio For Life" aria-label="สถานีเพลงเพื่อชีวิต Request Radio For Life">
+	  <article class="radio-card" data-radio-id="411613">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/Shf4dp98ac.png"
+						alt="สถานีเพลงเพื่อชีวิต Request Radio For Life logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">สถานีเพลงเพื่อชีวิต Request Radio For Life</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/great-93" class="radio-card__link" title="GREAT 93 | ONLINE" aria-label="GREAT 93 | ONLINE">
+	  <article class="radio-card" data-radio-id="470662">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/662/great-93.a0cb964a.png"
+						alt="GREAT 93 | ONLINE logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">GREAT 93 | ONLINE</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/met-107" class="radio-card__link" title="Met 107 FM" aria-label="Met 107 FM">
+	  <article class="radio-card" data-radio-id="395369">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/369/met-107-fm.e754f3fd.jpg"
+						alt="Met 107 FM logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Met 107 FM</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/luukthungentewir-looktung-network" class="radio-card__link" title="ลูกทุ่งเน็ตเวิร์  (Looktung Network)" aria-label="ลูกทุ่งเน็ตเวิร์  (Looktung Network)">
+	  <article class="radio-card" data-radio-id="500796">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/bk6a8wzk9wsr.png"
+						alt="ลูกทุ่งเน็ตเวิร์  (Looktung Network) logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">ลูกทุ่งเน็ตเวิร์  (Looktung Network)</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/request-radio-country-music" class="radio-card__link" title="สถานีเพลงลูกทุ่ง Request Radio Country Music" aria-label="สถานีเพลงลูกทุ่ง Request Radio Country Music">
+	  <article class="radio-card" data-radio-id="415456">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/GSJSFuqNnJ.png"
+						alt="สถานีเพลงลูกทุ่ง Request Radio Country Music logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">สถานีเพลงลูกทุ่ง Request Radio Country Music</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/talay-9025" class="radio-card__link" title="Talay 90.25" aria-label="Talay 90.25">
+	  <article class="radio-card" data-radio-id="476272">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/272/talay-9025.c2ab9312.png"
+						alt="Talay 90.25 logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Talay 90.25</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/106familynews" class="radio-card__link" title="106 ครอบครัวข่าว" aria-label="106 ครอบครัวข่าว">
+	  <article class="radio-card" data-radio-id="440181">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/181/106-khrbkhrawkhaaw.7d16a7d7.png"
+						alt="106 ครอบครัวข่าว logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">106 ครอบครัวข่าว</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/buymaa-phandwng" class="radio-card__link" title="บุญมา พันดวง (Boonma FM)" aria-label="บุญมา พันดวง (Boonma FM)">
+	  <article class="radio-card" data-radio-id="465178">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/95eeadbawa4q.png"
+						alt="บุญมา พันดวง (Boonma FM) logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">บุญมา พันดวง (Boonma FM)</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/fm91" class="radio-card__link" title="สวพ Fm 91" aria-label="สวพ Fm 91">
+	  <article class="radio-card" data-radio-id="440174">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/ptshgz8bvtsk.jpeg"
+						alt="สวพ Fm 91 logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">สวพ Fm 91</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/bp-radio-hd" class="radio-card__link" title="BP Radio สตริงกลาง 90" aria-label="BP Radio สตริงกลาง 90">
+	  <article class="radio-card" data-radio-id="467228">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/228/bp-radio-hd.2fbc8388.jpg"
+						alt="BP Radio สตริงกลาง 90 logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">BP Radio สตริงกลาง 90</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/yesterday-1065-fm" class="radio-card__link" title="Yesterday 106.5 FM" aria-label="Yesterday 106.5 FM">
+	  <article class="radio-card" data-radio-id="459615">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/fzc5x62n4qk8.jpg"
+						alt="Yesterday 106.5 FM logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Yesterday 106.5 FM</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/sthaaniiwithuyswnphuumiphaakh-mcot-radio-lampaang" class="radio-card__link" title="สถานีวิทุยส่วนภูมิภาค MCOT Radio ลำปาง" aria-label="สถานีวิทุยส่วนภูมิภาค MCOT Radio ลำปาง">
+	  <article class="radio-card" data-radio-id="440261">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/78dwuzgjfqmh.png"
+						alt="สถานีวิทุยส่วนภูมิภาค MCOT Radio ลำปาง logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">สถานีวิทุยส่วนภูมิภาค MCOT Radio ลำปาง</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/request-radio-international-music" class="radio-card__link" title="สถานีเพลงสากล Request Radio International Music" aria-label="สถานีเพลงสากล Request Radio International Music">
+	  <article class="radio-card" data-radio-id="411614">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/pFkhvW6wPL.png"
+						alt="สถานีเพลงสากล Request Radio International Music logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">สถานีเพลงสากล Request Radio International Music</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/yes-radio-thai-family-th-only" class="radio-card__link" title="YES Radio thai Family (TH Only)" aria-label="YES Radio thai Family (TH Only)">
+	  <article class="radio-card" data-radio-id="440396">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/dqhdnczntxrn.png"
+						alt="YES Radio thai Family (TH Only) logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">YES Radio thai Family (TH Only)</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/sthaaniiwithuyswnphuumiphaakh-mcot-radio-echiiyngaihm" class="radio-card__link" title="สถานีวิทุยส่วนภูมิภาค MCOT Radio เชียงใหม่" aria-label="สถานีวิทุยส่วนภูมิภาค MCOT Radio เชียงใหม่">
+	  <article class="radio-card" data-radio-id="440263">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/nb2ery3pqq9y.png"
+						alt="สถานีวิทุยส่วนภูมิภาค MCOT Radio เชียงใหม่ logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">สถานีวิทุยส่วนภูมิภาค MCOT Radio เชียงใหม่</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/the-shock-fm101" class="radio-card__link" title="เดอะช็อค The Shock 101" aria-label="เดอะช็อค The Shock 101">
+	  <article class="radio-card" data-radio-id="440169">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/32nfvg7pxmdt.png"
+						alt="เดอะช็อค The Shock 101 logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">เดอะช็อค The Shock 101</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/string-wowradio" class="radio-card__link" title="เพลงสตริงเก่า ว้าว เรดิโอ online" aria-label="เพลงสตริงเก่า ว้าว เรดิโอ online">
+	  <article class="radio-card" data-radio-id="478282">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/282/string-wowradio.6ca455bf.jpg"
+						alt="เพลงสตริงเก่า ว้าว เรดิโอ online logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">เพลงสตริงเก่า ว้าว เรดิโอ online</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/ephlngluukthunghmlam-kantruem-aithylaannaaerdio" class="radio-card__link" title="เพลงลูกทุ่งหมอลำ กันตรึม ไทยลานนาเรดิโอ" aria-label="เพลงลูกทุ่งหมอลำ กันตรึม ไทยลานนาเรดิโอ">
+	  <article class="radio-card" data-radio-id="478894">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/dkbtbmamjlxr.png"
+						alt="เพลงลูกทุ่งหมอลำ กันตรึม ไทยลานนาเรดิโอ logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">เพลงลูกทุ่งหมอลำ กันตรึม ไทยลานนาเรดิโอ</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/ondio-new" class="radio-card__link" title="Ondio New" aria-label="Ondio New">
+	  <article class="radio-card" data-radio-id="418158">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/fupLAccBRh.png"
+						alt="Ondio New logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Ondio New</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/98-iisaan-efem" class="radio-card__link" title="98 อีสาน เอฟเอ็ม" aria-label="98 อีสาน เอฟเอ็ม">
+	  <article class="radio-card" data-radio-id="446697">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/naazdc5h6kuz.png"
+						alt="98 อีสาน เอฟเอ็ม logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">98 อีสาน เอฟเอ็ม</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/thai-music" class="radio-card__link" title="THAI MUSIC" aria-label="THAI MUSIC">
+	  <article class="radio-card" data-radio-id="468637">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/gcevqeh6xptz.png"
+						alt="THAI MUSIC logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">THAI MUSIC</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/fm91-pattaya-mundee" class="radio-card__link" title="onairPLUS | PattayaMundee.com FM91 - พัทยามันดี" aria-label="onairPLUS | PattayaMundee.com FM91 - พัทยามันดี">
+	  <article class="radio-card" data-radio-id="458260">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/260/fm91-pattaya-mun-d.3630640c.png"
+						alt="onairPLUS | PattayaMundee.com FM91 - พัทยามันดี logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">onairPLUS | PattayaMundee.com FM91 - พัทยามันดี</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/cu-radio" class="radio-card__link" title="CU Radio" aria-label="CU Radio">
+	  <article class="radio-card" data-radio-id="440308">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/epechblwdmx9.png"
+						alt="CU Radio logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">CU Radio</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/js100" class="radio-card__link" title="JS 100 Radio" aria-label="JS 100 Radio">
+	  <article class="radio-card" data-radio-id="416470">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/470/js-100-radio.425b78b2.jpg"
+						alt="JS 100 Radio logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">JS 100 Radio</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/sthaaniiwithuyswnphuumiphaakh-mcot-radio-echiiyngraay" class="radio-card__link" title="สถานีวิทุยส่วนภูมิภาค MCOT Radio เชียงราย" aria-label="สถานีวิทุยส่วนภูมิภาค MCOT Radio เชียงราย">
+	  <article class="radio-card" data-radio-id="440265">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/e6qvtshx8e64.png"
+						alt="สถานีวิทุยส่วนภูมิภาค MCOT Radio เชียงราย logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">สถานีวิทุยส่วนภูมิภาค MCOT Radio เชียงราย</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/munforward-xtra" class="radio-card__link" title="MUNforward Xtra" aria-label="MUNforward Xtra">
+	  <article class="radio-card" data-radio-id="492870">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/fANqGSV3WH.png"
+						alt="MUNforward Xtra logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">MUNforward Xtra</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/hotwave-online" class="radio-card__link" title="Hotwave Online" aria-label="Hotwave Online">
+	  <article class="radio-card" data-radio-id="485179">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/rt8MwG59Av.jpg"
+						alt="Hotwave Online logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Hotwave Online</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/wow-radio" class="radio-card__link" title="เพลงลูกทุ่ง WOWRadio online HD" aria-label="เพลงลูกทุ่ง WOWRadio online HD">
+	  <article class="radio-card" data-radio-id="453004">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/004/luukthungaihm-885-wow-radio-cchanghwadaephr.193af252.jpg"
+						alt="เพลงลูกทุ่ง WOWRadio online HD logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">เพลงลูกทุ่ง WOWRadio online HD</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/munfoward" class="radio-card__link" title="MUNforward" aria-label="MUNforward">
+	  <article class="radio-card" data-radio-id="395370">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/5qHHXe7LRX.png"
+						alt="MUNforward logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">MUNforward</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/mcot-modern-radio" class="radio-card__link" title="MCOT Modern Radio" aria-label="MCOT Modern Radio">
+	  <article class="radio-card" data-radio-id="405995">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/7CdaEWFPHD.png"
+						alt="MCOT Modern Radio logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">MCOT Modern Radio</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/city-radio-pattaya" class="radio-card__link" title="City Radio Pattaya" aria-label="City Radio Pattaya">
+	  <article class="radio-card" data-radio-id="397156">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/156/city-radio-pattaya.ea03ead4.png"
+						alt="City Radio Pattaya logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">City Radio Pattaya</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/rad-radio-895" class="radio-card__link" title="Rad Radio 89.5" aria-label="Rad Radio 89.5">
+	  <article class="radio-card" data-radio-id="483972">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/972/rad-radio-895.bfe6a248.jpg"
+						alt="Rad Radio 89.5 logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Rad Radio 89.5</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/wat" class="radio-card__link" title="Wat" aria-label="Wat">
+	  <article class="radio-card" data-radio-id="449094">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/dlaqq6tswujg.png"
+						alt="Wat logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Wat</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/friends-bangkok" class="radio-card__link" title="Friends Bangkok" aria-label="Friends Bangkok">
+	  <article class="radio-card" data-radio-id="454226">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/226/friends-bangkok.47f2124f.png"
+						alt="Friends Bangkok logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Friends Bangkok</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/request-radio-dancemix" class="radio-card__link" title="สถานีเพลงแดนซ์ Request Radio Dance Mix" aria-label="สถานีเพลงแดนซ์ Request Radio Dance Mix">
+	  <article class="radio-card" data-radio-id="440254">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/wryg76p7ebax.png"
+						alt="สถานีเพลงแดนซ์ Request Radio Dance Mix logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">สถานีเพลงแดนซ์ Request Radio Dance Mix</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/smooth-fm-1055" class="radio-card__link" title="Smooth FM 105.5" aria-label="Smooth FM 105.5">
+	  <article class="radio-card" data-radio-id="504345">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/345/smooth-fm-1055.754ab47c.png"
+						alt="Smooth FM 105.5 logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Smooth FM 105.5</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/ephlngluukthung-cchakkacchiierdio" class="radio-card__link" title="เพลงลูกทุ่ง จั๊กกะจี้เรดิโอ" aria-label="เพลงลูกทุ่ง จั๊กกะจี้เรดิโอ">
+	  <article class="radio-card" data-radio-id="474519">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/b5xenqq4q4kv.jpg"
+						alt="เพลงลูกทุ่ง จั๊กกะจี้เรดิโอ logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">เพลงลูกทุ่ง จั๊กกะจี้เรดิโอ</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/mcot-radio-1020-fm-surat-thani" class="radio-card__link" title="Mcot Radio 102.0 FM Surat Thani" aria-label="Mcot Radio 102.0 FM Surat Thani">
+	  <article class="radio-card" data-radio-id="424390">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/wbu3vFWvq4.png"
+						alt="Mcot Radio 102.0 FM Surat Thani logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Mcot Radio 102.0 FM Surat Thani</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/great-online2" class="radio-card__link" title="GREAT 93 | ONAIR" aria-label="GREAT 93 | ONAIR">
+	  <article class="radio-card" data-radio-id="488682">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/682/great-online-thailand.782a3dd3.png"
+						alt="GREAT 93 | ONAIR logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">GREAT 93 | ONAIR</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/swthsngkhlaa-fm-905-mhz-radiothailand" class="radio-card__link" title="สวท.สงขลา | FM 90.5 MHz | RadioThailand" aria-label="สวท.สงขลา | FM 90.5 MHz | RadioThailand">
+	  <article class="radio-card" data-radio-id="494580">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/580/swthsngkhlaa-fm-905-mhz-radiothailand.95aec903.jpg"
+						alt="สวท.สงขลา | FM 90.5 MHz | RadioThailand logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">สวท.สงขลา | FM 90.5 MHz | RadioThailand</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/wadpaaaithrngaam-wat-sai-ngam" class="radio-card__link" title="วัดป่าไทรงาม (Wat Sai Ngam)" aria-label="วัดป่าไทรงาม (Wat Sai Ngam)">
+	  <article class="radio-card" data-radio-id="458917">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/ltwwznwtmq8e.jpg"
+						alt="วัดป่าไทรงาม (Wat Sai Ngam) logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">วัดป่าไทรงาม (Wat Sai Ngam)</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/102-radio-sthaaniiwithyukracchaayesiiyng-khsthb" class="radio-card__link" title="102 Radio สถานีวิทยุกระจายเสียง ขส.ทบ" aria-label="102 Radio สถานีวิทยุกระจายเสียง ขส.ทบ">
+	  <article class="radio-card" data-radio-id="414344">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/kD8W96emy7.jpg"
+						alt="102 Radio สถานีวิทยุกระจายเสียง ขส.ทบ logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">102 Radio สถานีวิทยุกระจายเสียง ขส.ทบ</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/ephlngluukthung-laannaaerdio" class="radio-card__link" title="เพลงลูกทุ่ง ล้านนาเรดิโอ" aria-label="เพลงลูกทุ่ง ล้านนาเรดิโอ">
+	  <article class="radio-card" data-radio-id="471610">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/japcrdy9nsfm.png"
+						alt="เพลงลูกทุ่ง ล้านนาเรดิโอ logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">เพลงลูกทุ่ง ล้านนาเรดิโอ</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/surf-1025-fm" class="radio-card__link" title="Surf Radio" aria-label="Surf Radio">
+	  <article class="radio-card" data-radio-id="438452">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/452/surf-1025-fm.f2a7db1b.png"
+						alt="Surf Radio logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Surf Radio</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/smart-news" class="radio-card__link" title="90.5 Smart News มิติข่าว" aria-label="90.5 Smart News มิติข่าว">
+	  <article class="radio-card" data-radio-id="460328">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/328/905-smart-news-mitikhaaw.b742cb9c.jpg"
+						alt="90.5 Smart News มิติข่าว logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">90.5 Smart News มิติข่าว</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/huahinmusic-radio" class="radio-card__link" title="Huahin Radio Thailand เพลงลูกทุ่ง" aria-label="Huahin Radio Thailand เพลงลูกทุ่ง">
+	  <article class="radio-card" data-radio-id="455043">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/043/ephlngluukthung-huahin-radio.c6db6f26.png"
+						alt="Huahin Radio Thailand เพลงลูกทุ่ง logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Huahin Radio Thailand เพลงลูกทุ่ง</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/fm102-khluuenkhnthamngaan" class="radio-card__link" title="FM102 คลื่นคนทำงาน" aria-label="FM102 คลื่นคนทำงาน">
+	  <article class="radio-card" data-radio-id="440394">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/rvk9j5ak7cqs.jpeg"
+						alt="FM102 คลื่นคนทำงาน logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">FM102 คลื่นคนทำงาน</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/sthaaniiwithuyswnphuumiphaakh-mcot-radio-buriiramy" class="radio-card__link" title="สถานีวิทุยส่วนภูมิภาค MCOT Radio บุรีรัมย์" aria-label="สถานีวิทุยส่วนภูมิภาค MCOT Radio บุรีรัมย์">
+	  <article class="radio-card" data-radio-id="440273">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/npf98zpgecxc.png"
+						alt="สถานีวิทุยส่วนภูมิภาค MCOT Radio บุรีรัมย์ logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">สถานีวิทุยส่วนภูมิภาค MCOT Radio บุรีรัมย์</div>
+	  </article>
+	</a>
+
+	                
+	                    
+	<a href="https://www.radio-thai.com/musichitz-radio-inter" class="radio-card__link" title="Musichitz Radio Inter" aria-label="Musichitz Radio Inter">
+	  <article class="radio-card" data-radio-id="440187">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/187/musichitz-radio-inter.1312996b.jpg"
+						alt="Musichitz Radio Inter logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Musichitz Radio Inter</div>
+	  </article>
+	</a>
+
+	                
+	            </div>
+	        </section>
+	        
+            
+                
+                
+                
+                
+                    
+                
+                <nav class="pagination" aria-label="การนำทางหน้า">
+                    <div class="pagination__info">
+                        <span>
+                            หน้า <span class="pagination__current" data-page-current>1</span>
+                            จาก <span class="pagination__total" data-page-total>7</span>
+                        </span>
+                    </div>
+                    <div class="pagination__controls">
+                        
+
+                        
+                            
+                                <span class="pagination__button pagination__button--active" aria-current="page">1</span>
+                            
+                        
+                            
+                                
+                                    <a href="https://www.radio-thai.com/?page=2" class="pagination__button" title="ไปที่หน้า 2" aria-label="หน้า 2">2</a>
+                                
+                            
+                        
+                            
+                                
+                                    <a href="https://www.radio-thai.com/?page=3" class="pagination__button" title="ไปที่หน้า 3" aria-label="หน้า 3">3</a>
+                                
+                            
+                        
+
+                        
+                            
+                                <a href="https://www.radio-thai.com/?page=2" class="pagination__button pagination__button--next" title="หน้าถัดไป" aria-label="หน้าถัดไป">&gt;</a>
+                            
+                            
+                                
+                                    <a href="https://www.radio-thai.com/?page=7" class="pagination__button pagination__button--last" title="หน้าสุดท้าย" aria-label="หน้าสุดท้าย">&gt;&gt;</a>
+                                
+                            
+                        
+                    </div>
+                </nav>
+            
+        
+        
+            <section class="featured-radios" aria-label="สถานีวิทยุออนไลน์ที่เราชอบ">
+                <h2 class="featured-radios__title">สถานีวิทยุออนไลน์ที่เราชอบ</h2>
+                <div class="featured-radios__grid">
+                    
+                        
+	<a href="https://www.radio-thai.com/ae/wonder-80s" class="radio-card__link" title="Wonder 80&#39;s" aria-label="Wonder 80&#39;s">
+	  <article class="radio-card" data-radio-id="492680">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/680/wonder-80s.46eec212.jpg"
+						alt="Wonder 80&#39;s logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Wonder 80&#39;s</div>
+	  </article>
+	</a>
+
+                    
+                        
+	<a href="https://www.radio-thai.com/ae/recuerda" class="radio-card__link" title="Recuerda" aria-label="Recuerda">
+	  <article class="radio-card" data-radio-id="500007">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/007/recuerda.ec023a93.png"
+						alt="Recuerda logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Recuerda</div>
+	  </article>
+	</a>
+
+                    
+                        
+	<a href="https://www.radio-thai.com/ae/classic-rock-station" class="radio-card__link" title="Classic Rock Station" aria-label="Classic Rock Station">
+	  <article class="radio-card" data-radio-id="492679">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/679/classic-rock-station.3a3fd1f7.png"
+						alt="Classic Rock Station logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Classic Rock Station</div>
+	  </article>
+	</a>
+
+                    
+                        
+	<a href="https://www.radio-thai.com/ae/tiktok-hits" class="radio-card__link" title="TikTok Hits" aria-label="TikTok Hits">
+	  <article class="radio-card" data-radio-id="517248">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/248/tiktok-hits.08ab6d31.png"
+						alt="TikTok Hits logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">TikTok Hits</div>
+	  </article>
+	</a>
+
+                    
+                        
+	<a href="https://www.radio-thai.com/ae/romantic-vibes" class="radio-card__link" title="Romantic Vibes" aria-label="Romantic Vibes">
+	  <article class="radio-card" data-radio-id="500003">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/003/romantic-vibes.e695b56b.png"
+						alt="Romantic Vibes logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Romantic Vibes</div>
+	  </article>
+	</a>
+
+                    
+                        
+	<a href="https://www.radio-thai.com/ae/groov-smooth-jazz" class="radio-card__link" title="Smooth Jazz - Groov" aria-label="Smooth Jazz - Groov">
+	  <article class="radio-card" data-radio-id="492676">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/676/groov-smooth-jazz.7d0b32ad.png"
+						alt="Smooth Jazz - Groov logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Smooth Jazz - Groov</div>
+	  </article>
+	</a>
+
+                    
+                        
+	<a href="https://www.radio-thai.com/ae/love-90s" class="radio-card__link" title="Top 90&#39;s" aria-label="Top 90&#39;s">
+	  <article class="radio-card" data-radio-id="492672">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/672/love-90s-portugal.6f1135d3.png"
+						alt="Top 90&#39;s logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Top 90&#39;s</div>
+	  </article>
+	</a>
+
+                    
+                        
+	<a href="https://www.radio-thai.com/sg/beam-fm-adult-hits" class="radio-card__link" title="Beam FM - Adult Hits" aria-label="Beam FM - Adult Hits">
+	  <article class="radio-card" data-radio-id="455918">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/918/beam-fm-adult-hits.f507af17.jpg"
+						alt="Beam FM - Adult Hits logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Beam FM - Adult Hits</div>
+	  </article>
+	</a>
+
+                    
+                        
+	<a href="https://www.radio-thai.com/ae/country-vibes" class="radio-card__link" title="Country Vibes" aria-label="Country Vibes">
+	  <article class="radio-card" data-radio-id="500006">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/006/country-vibes.daa4c6e0.png"
+						alt="Country Vibes logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Country Vibes</div>
+	  </article>
+	</a>
+
+                    
+                        
+	<a href="https://www.radio-thai.com/ae/chillout-vibes" class="radio-card__link" title="Chillout Vibes" aria-label="Chillout Vibes">
+	  <article class="radio-card" data-radio-id="500004">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/004/chillout-vibes.c101d07e.png"
+						alt="Chillout Vibes logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Chillout Vibes</div>
+	  </article>
+	</a>
+
+                    
+                        
+	<a href="https://www.radio-thai.com/ae/rewind-2000s" class="radio-card__link" title="Rewind 2000&#39;s" aria-label="Rewind 2000&#39;s">
+	  <article class="radio-card" data-radio-id="492677">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/677/rewind-2000s.24e9977a.png"
+						alt="Rewind 2000&#39;s logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Rewind 2000&#39;s</div>
+	  </article>
+	</a>
+
+                    
+                        
+	<a href="https://www.radio-thai.com/ae/k-pop-vibes" class="radio-card__link" title="K-Pop Vibes" aria-label="K-Pop Vibes">
+	  <article class="radio-card" data-radio-id="517251">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/251/k-pop-vibes.3f09ab2f.png"
+						alt="K-Pop Vibes logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">K-Pop Vibes</div>
+	  </article>
+	</a>
+
+                    
+                        
+	<a href="https://www.radio-thai.com/ae/bandida" class="radio-card__link" title="Latina Bandida!" aria-label="Latina Bandida!">
+	  <article class="radio-card" data-radio-id="492673">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/673/bandida.9e68a0a7.png"
+						alt="Latina Bandida! logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Latina Bandida!</div>
+	  </article>
+	</a>
+
+                    
+                        
+	<a href="https://www.radio-thai.com/sg/beam-fm" class="radio-card__link" title="Beam FM" aria-label="Beam FM">
+	  <article class="radio-card" data-radio-id="455984">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/984/beam-fm.edf8798f.png"
+						alt="Beam FM logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Beam FM</div>
+	  </article>
+	</a>
+
+                    
+                        
+	<a href="https://www.radio-thai.com/ae/oldies-vibes" class="radio-card__link" title="80s Pop Vibes" aria-label="80s Pop Vibes">
+	  <article class="radio-card" data-radio-id="500005">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/005/oldies-vibes.89fd564b.png"
+						alt="80s Pop Vibes logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">80s Pop Vibes</div>
+	  </article>
+	</a>
+
+                    
+                        
+	<a href="https://www.radio-thai.com/ae/lofi-vibes" class="radio-card__link" title="LoFi Vibes" aria-label="LoFi Vibes">
+	  <article class="radio-card" data-radio-id="517252">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/252/lofi-vibes.b91edb9c.png"
+						alt="LoFi Vibes logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">LoFi Vibes</div>
+	  </article>
+	</a>
+
+                    
+                        
+	<a href="https://www.radio-thai.com/ae/dance-machine" class="radio-card__link" title="Dance Machine" aria-label="Dance Machine">
+	  <article class="radio-card" data-radio-id="492674">
+			  <div class="radio-card__logo-wrapper">
+				<img
+						src="https://static.mytuner.mobi/media/radios-150px/674/dance-machine.c990d6cc.png"
+						alt="Dance Machine logo"
+						class="radio-card__logo"
+						width="150"
+						height="150"
+						loading="lazy"
+						decoding="async"
+						onerror="this.src='https:\/\/cdn.regional-radios.app-mind.com\/static\/assets\/images\/ui\/radio_placeholder.png'"
+				/>
+				<div class="radio-card__play-overlay">
+				  <span class="ui-sprite ui-sprite--play_arrow--32x32" aria-hidden="true"></span>
+				</div>
+		  </div>
+		  <div class="radio-card__name">Dance Machine</div>
+	  </article>
+	</a>
+
+                    
+                </div>
+            </section>
+        
+        
+        
+            <section class="homepage-text">
+                <div class="homepage-text__body"><p>ยินดีต้อนรับเข้าสู่ศูนย์รวมสถานีวิทยุออนไลน์ที่ดีที่สุดของประเทศไทย ที่นี่เราได้รวบรวมคลื่นวิทยุยอดนิยมจากทั่วทุกมุมของประเทศมาไว้ให้คุณฟังได้ง่ายๆ ในที่เดียว ไม่ว่าคุณจะอยู่ที่ไหนก็สามารถติดตามรับฟังรายการโปรด เพลงฮิต หรือข่าวสารล่าสุดได้ตลอด 24 ชั่วโมงผ่านระบบออนไลน์ที่เสถียรและใช้งานง่ายที่สุด</p><p>สำหรับผู้ที่ชื่นชอบเสียงเพลง เรามีสถานีชั้นนำอย่าง <a href="/cool-93">COOL Fahrenheit 93 FM</a> ที่พร้อมมอบเพลงเพราะต่อเนื่องตลอดทั้งวัน หรือหากคุณกำลังมองหาเพลงฟังสบายๆ ผ่อนคลายอารมณ์ <a href="/greenwave">Green Wave 106.5 FM</a> ก็เป็นตัวเลือกที่ยอดเยี่ยม ส่วนใครที่ไม่อยากพลาดกระแสความบันเทิงและเรื่องราวสนุกๆ ต้องไม่พลาด <a href="/efm">EFM 94.0</a> และสำหรับวัยรุ่นที่ชอบเพลงทันสมัยและกิจกรรมไลฟ์สไตล์ <a href="/flex-1045-fm">FLEX 104.5 FM</a> ก็มีพร้อมให้บริการคุณถึงหน้าจอ</p><p>หากคุณเป็นแฟนเพลงลูกทุ่งและเพลงเพื่อชีวิต เรามีสถานีที่ตอบโจทย์ความต้องการอย่าง <a href="/90-rakthai">90 ลูกทุ่ง รักไทย</a>, <a href="/ltmfm95">FM 95 ลูกทุ่งมหานคร อสมท</a> และ <a href="/request-radio-country-music">สถานีเพลงลูกทุ่ง Request Radio Country Music</a> รวมถึง <a href="/request-radio-forlife">สถานีเพลงเพื่อชีวิต Request Radio For Life</a> สำหรับคนที่คิดถึงวันวาน เรายังมีสถานี <a href="/eingdoi-radio">เพลงสตริงเก่า Eingdoi Radio</a> และ <a href="/string-wowradio">เพลงสตริงเก่า ว้าว เรดิโอ online</a> ที่จะพาคุณย้อนเวลากลับไปฟังเพลงฮิตในอดีตที่ยังตราตรึงใจ</p><p>นอกจากดนตรีแล้ว เรายังมีรายการสาระความรู้และกีฬาให้เลือกฟังมากมาย เช่น <a href="/fm99">FM 99 Active Radio</a> สำหรับคอกีฬาตัวจริง หรือจะอัปเดตข่าวสารประเด็นร้อนกับ <a href="/106familynews">106 ครอบครัวข่าว</a> และรับฟังมุมมองใหม่ๆ จาก <a href="/fm-965">FM 96.5 คลื่นความคิด Thinking Radio</a> หากคุณชอบฟังเพลงสากลระดับโลก <a href="/met-107">Met 107 FM</a> และ <a href="/request-radio-international-music">สถานีเพลงสากล Request Radio International Music</a> ก็พร้อมส่งตรงเพลงดังจากชาร์ตต่างประเทศให้คุณฟังได้ทันที</p><p>เรายังมีสถานีคุณภาพอื่นๆ อีกมากมาย เช่น <a href="/935-top-radio-fm">93.5 Top Radio FM</a>, <a href="/great-93">GREAT 93 | ONLINE</a>, <a href="/request-radio-music">สถานีเพลงสตริง Request Radio</a>, <a href="/talay-9025">Talay 90.25</a> และ <a href="/luukthungentewir-looktung-network">ลูกทุ่งเน็ตเวิร์  (Looktung Network)</a> ให้คุณเลือกสรรตามความชอบ เพียงแค่คลิกเดียวคุณก็สามารถเชื่อมต่อกับโลกแห่งเสียงเพลงและข้อมูลข่าวสารของเมืองไทยได้ทุกที่ทุกเวลา สัมผัสประสบการณ์การฟังวิทยุออนไลน์ที่สะดวกและรวดเร็วที่สุดได้แล้ววันนี้ผ่านหน้าเว็บไซต์ของเราโดยตรง มาร่วมเป็นส่วนหนึ่งของสังคมคนรักเสียงเพลงไปกับเราและเพลิดเพลินไปกับรายการวิทยุที่ดีที่สุดของไทยได้ฟรีทุกวัน</p></div>
+            </section>
+        
+    </main>
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mobile-category-buttons">
+  <div class="mobile-category-buttons__row">
+    
+    <a href="https://www.radio-thai.com/genre/khaawsaar" class="mobile-category-button" title="ข่าว">
+      <span class="mobile-category-button__icon ui-sprite ui-sprite--news_light--24x24" aria-hidden="true"></span>
+      <span class="mobile-category-button__text">ข่าว</span>
+    </a>
+    
+    <a href="https://www.radio-thai.com/radio/discover-180" class="mobile-category-button" title="แนะนำ">
+      <span class="mobile-category-button__icon ui-sprite ui-sprite--recommended_light--24x24" aria-hidden="true"></span>
+      <span class="mobile-category-button__text">แนะนำ</span>
+    </a>
+  </div>
+  
+  
+  
+
+  
+  
+  
+  
+  <div class="sidebar__dropdown-container">
+    <a href="https://www.radio-thai.com/genre" class="mobile-category-button sidebar__nav-item--dropdown-toggle" title="วิทยุตามประเภท">
+      <span class="mobile-category-button__icon ui-sprite ui-sprite--genre_light--24x24" aria-hidden="true"></span>
+      <span class="mobile-category-button__text">วิทยุตามประเภท</span>
+      <span class="sidebar__nav-arrow ui-sprite ui-sprite--arrow_light--16x16" aria-hidden="true"></span>
+    </a>
+    <div class="sidebar__dropdown-menu">
+      
+      <a href="https://www.radio-thai.com/genre/pop-top-40" class="sidebar__dropdown-item" title="Pop / Top 40">Pop / Top 40</a>
+      
+      <a href="https://www.radio-thai.com/genre/khluuenphuudkhuy" class="sidebar__dropdown-item" title="คลื่นพูดคุย">คลื่นพูดคุย</a>
+      
+      <a href="https://www.radio-thai.com/genre/ephlngekaayukhpii-40-50" class="sidebar__dropdown-item" title="เพลงเก่ายุคปี 40, 50">เพลงเก่ายุคปี 40, 50</a>
+      
+      <a href="https://www.radio-thai.com/genre/ephlngkhlaassikydniym" class="sidebar__dropdown-item" title="เพลงคลาสสิกยอดนิยม">เพลงคลาสสิกยอดนิยม</a>
+      
+      <a href="https://www.radio-thai.com/genre/ephlngkhanthrii" class="sidebar__dropdown-item" title="เพลงคันทรี">เพลงคันทรี</a>
+      
+      <a href="https://www.radio-thai.com/genre/ephlngyukh-80" class="sidebar__dropdown-item" title="เพลงยุค 80">เพลงยุค 80</a>
+      
+      <a href="https://www.radio-thai.com/genre/ephlngyukh-90" class="sidebar__dropdown-item" title="เพลงยุค 90">เพลงยุค 90</a>
+      
+      <a href="https://www.radio-thai.com/genre/ephlngrwmsmay" class="sidebar__dropdown-item" title="เพลงร่วมสมัย">เพลงร่วมสมัย</a>
+      
+      <a href="https://www.radio-thai.com/genre/fangngaay" class="sidebar__dropdown-item" title="ฟังง่าย">ฟังง่าย</a>
+      
+      <a href="https://www.radio-thai.com/genre/sthaaniiwaaairtii" class="sidebar__dropdown-item" title="สถานีวาไรตี้">สถานีวาไรตี้</a>
+      
+      <a href="https://www.radio-thai.com/genre" class="sidebar__dropdown-item sidebar__dropdown-item--all" title="ทั้งหมด">ทั้งหมด</a>
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  <div class="sidebar__dropdown-container">
+    <a href="#" class="mobile-category-button sidebar__nav-item--dropdown-toggle" title="วิทยุตามภูมิภาค">
+      <span class="mobile-category-button__icon ui-sprite ui-sprite--world_light--24x24" aria-hidden="true"></span>
+      <span class="mobile-category-button__text">วิทยุตามภูมิภาค</span>
+      <span class="sidebar__nav-arrow ui-sprite ui-sprite--arrow_light--16x16" aria-hidden="true"></span>
+    </a>
+    <div class="sidebar__dropdown-menu">
+      <a href="https://www.radio-thai.com/" class="sidebar__dropdown-item sidebar__dropdown-item--active" title="ทุกภูมิภาค">ทุกภูมิภาค</a>
+      
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/krungethph" class="sidebar__dropdown-item" title="กรุงเทพฯ">กรุงเทพฯ</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadkrabii" class="sidebar__dropdown-item" title="จังหวัดกระบี่">จังหวัดกระบี่</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadkaalsinthu" class="sidebar__dropdown-item" title="จังหวัดกาฬสินธุ์">จังหวัดกาฬสินธุ์</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadkamaephngephchr" class="sidebar__dropdown-item" title="จังหวัดกำแพงเพชร">จังหวัดกำแพงเพชร</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadkhnaekn" class="sidebar__dropdown-item" title="จังหวัดขอนแก่น">จังหวัดขอนแก่น</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadcchanthburii" class="sidebar__dropdown-item" title="จังหวัดจันทบุรี">จังหวัดจันทบุรี</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadchaechingethraa" class="sidebar__dropdown-item" title="จังหวัดฉะเชิงเทรา">จังหวัดฉะเชิงเทรา</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadchlburii" class="sidebar__dropdown-item" title="จังหวัดชลบุรี">จังหวัดชลบุรี</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadchaynaath" class="sidebar__dropdown-item" title="จังหวัดชัยนาท">จังหวัดชัยนาท</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadchayphuumi" class="sidebar__dropdown-item" title="จังหวัดชัยภูมิ">จังหวัดชัยภูมิ</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadchumphr" class="sidebar__dropdown-item" title="จังหวัดชุมพร">จังหวัดชุมพร</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadechiiyngraay" class="sidebar__dropdown-item" title="จังหวัดเชียงราย">จังหวัดเชียงราย</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadechiiyngaihm" class="sidebar__dropdown-item" title="จังหวัดเชียงใหม่">จังหวัดเชียงใหม่</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadtrang" class="sidebar__dropdown-item" title="จังหวัดตรัง">จังหวัดตรัง</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadtraad" class="sidebar__dropdown-item" title="จังหวัดตราด">จังหวัดตราด</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadtaak" class="sidebar__dropdown-item" title="จังหวัดตาก">จังหวัดตาก</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadnkhrpthm" class="sidebar__dropdown-item" title="จังหวัดนครปฐม">จังหวัดนครปฐม</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadnkhrphnm" class="sidebar__dropdown-item" title="จังหวัดนครพนม">จังหวัดนครพนม</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadnkhrraachsiimaa" class="sidebar__dropdown-item" title="จังหวัดนครราชสีมา">จังหวัดนครราชสีมา</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadnkhrsriithrrmraach" class="sidebar__dropdown-item" title="จังหวัดนครศรีธรรมราช">จังหวัดนครศรีธรรมราช</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadnkhrswrrkh" class="sidebar__dropdown-item" title="จังหวัดนครสวรรค์">จังหวัดนครสวรรค์</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadnnthburii" class="sidebar__dropdown-item" title="จังหวัดนนทบุรี">จังหวัดนนทบุรี</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadnraathiwaas" class="sidebar__dropdown-item" title="จังหวัดนราธิวาส">จังหวัดนราธิวาส</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadbuengkaal" class="sidebar__dropdown-item" title="จังหวัดบึงกาฬ">จังหวัดบึงกาฬ</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadburiiramy" class="sidebar__dropdown-item" title="จังหวัดบุรีรัมย์">จังหวัดบุรีรัมย์</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadpthumthaanii" class="sidebar__dropdown-item" title="จังหวัดปทุมธานี">จังหวัดปทุมธานี</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadpracchwbkhiiriikhanth" class="sidebar__dropdown-item" title="จังหวัดประจวบคีรีขันธ์">จังหวัดประจวบคีรีขันธ์</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadpattaanii" class="sidebar__dropdown-item" title="จังหวัดปัตตานี">จังหวัดปัตตานี</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadphrankhrsriiyuthyaa" class="sidebar__dropdown-item" title="จังหวัดพระนครศรีอยุธยา">จังหวัดพระนครศรีอยุธยา</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadphangngaa" class="sidebar__dropdown-item" title="จังหวัดพังงา">จังหวัดพังงา</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadphathlung" class="sidebar__dropdown-item" title="จังหวัดพัทลุง">จังหวัดพัทลุง</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadphicchitr" class="sidebar__dropdown-item" title="จังหวัดพิจิตร">จังหวัดพิจิตร</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadphisnuolk" class="sidebar__dropdown-item" title="จังหวัดพิษณุโลก">จังหวัดพิษณุโลก</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadephchrburii" class="sidebar__dropdown-item" title="จังหวัดเพชรบุรี">จังหวัดเพชรบุรี</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadephchrbuurn" class="sidebar__dropdown-item" title="จังหวัดเพชรบูรณ์">จังหวัดเพชรบูรณ์</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadaephr" class="sidebar__dropdown-item" title="จังหวัดแพร่">จังหวัดแพร่</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadmhaasaarkhaam" class="sidebar__dropdown-item" title="จังหวัดมหาสารคาม">จังหวัดมหาสารคาม</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadyosthr" class="sidebar__dropdown-item" title="จังหวัดยโสธร">จังหวัดยโสธร</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadyalaa" class="sidebar__dropdown-item" title="จังหวัดยะลา">จังหวัดยะลา</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadryed" class="sidebar__dropdown-item" title="จังหวัดร้อยเอ็ด">จังหวัดร้อยเอ็ด</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadranng" class="sidebar__dropdown-item" title="จังหวัดระนอง">จังหวัดระนอง</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadrayng" class="sidebar__dropdown-item" title="จังหวัดระยอง">จังหวัดระยอง</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadraachburii" class="sidebar__dropdown-item" title="จังหวัดราชบุรี">จังหวัดราชบุรี</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadlphburii" class="sidebar__dropdown-item" title="จังหวัดลพบุรี">จังหวัดลพบุรี</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadlampaang" class="sidebar__dropdown-item" title="จังหวัดลำปาง">จังหวัดลำปาง</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadlamphuun" class="sidebar__dropdown-item" title="จังหวัดลำพูน">จังหวัดลำพูน</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadely" class="sidebar__dropdown-item" title="จังหวัดเลย">จังหวัดเลย</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadsklnkhr" class="sidebar__dropdown-item" title="จังหวัดสกลนคร">จังหวัดสกลนคร</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadsngkhlaa" class="sidebar__dropdown-item" title="จังหวัดสงขลา">จังหวัดสงขลา</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadstuul" class="sidebar__dropdown-item" title="จังหวัดสตูล">จังหวัดสตูล</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadsmuthrpraakaar" class="sidebar__dropdown-item" title="จังหวัดสมุทรปราการ">จังหวัดสมุทรปราการ</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadsraaekw" class="sidebar__dropdown-item" title="จังหวัดสระแก้ว">จังหวัดสระแก้ว</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadsraburii" class="sidebar__dropdown-item" title="จังหวัดสระบุรี">จังหวัดสระบุรี</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadsinghburii" class="sidebar__dropdown-item" title="จังหวัดสิงห์บุรี">จังหวัดสิงห์บุรี</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadsuokhthay" class="sidebar__dropdown-item" title="จังหวัดสุโขทัย">จังหวัดสุโขทัย</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadsuraasdrthaanii" class="sidebar__dropdown-item" title="จังหวัดสุราษฎร์ธานี">จังหวัดสุราษฎร์ธานี</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadsurinthr" class="sidebar__dropdown-item" title="จังหวัดสุรินทร์">จังหวัดสุรินทร์</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadhnngkhaay" class="sidebar__dropdown-item" title="จังหวัดหนองคาย">จังหวัดหนองคาย</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwadaangthng" class="sidebar__dropdown-item" title="จังหวัดอ่างทอง">จังหวัดอ่างทอง</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/cchanghwaduthaythaanii" class="sidebar__dropdown-item" title="จังหวัดอุทัยธานี">จังหวัดอุทัยธานี</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/praacchiinburii" class="sidebar__dropdown-item" title="ปราจีนบุรี">ปราจีนบุรี</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/phuuekt" class="sidebar__dropdown-item" title="ภูเก็ต">ภูเก็ต</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/udrthaanii" class="sidebar__dropdown-item" title="อุดรธานี">อุดรธานี</a>
+        
+        
+        
+        
+        
+        
+        <a href="https://www.radio-thai.com/radio/ublraachthaanii" class="sidebar__dropdown-item" title="อุบลราชธานี">อุบลราชธานี</a>
+        
+        
+      
+    </div>
+  </div>
+  
+</div>
+
+                    </div>
+                </div>
+                
+            </div>
+			<div id="footer-container">
+	            
+<footer class="footer" role="contentinfo">
+  <div class="footer__content">
+    
+    
+    
+    
+    <section class="footer__countries">
+      <h2 class="footer__countries-title">เว็บไซต์วิทยุอื่น ๆ</h2>
+      <div class="footer__flags-grid">
+        <a href="https://www.radio-osterreich.at" class="footer__flag" target="_blank" rel="noopener" title="ออสเตรีย" aria-label="ออสเตรีย"><span class="footer__flag-icon footer-sprite footer-sprite--at" aria-hidden="true"></span></a>
+        <a href="https://www.radio-belgie.be" class="footer__flag" target="_blank" rel="noopener" title="เบลเยียม" aria-label="เบลเยียม"><span class="footer__flag-icon footer-sprite footer-sprite--be" aria-hidden="true"></span></a>
+        <a href="https://www.radio-danmark.dk" class="footer__flag" target="_blank" rel="noopener" title="เดนมาร์ก" aria-label="เดนมาร์ก"><span class="footer__flag-icon footer-sprite footer-sprite--dk" aria-hidden="true"></span></a>
+        <a href="https://www.radio-suomi.com" class="footer__flag" target="_blank" rel="noopener" title="ฟินแลนด์" aria-label="ฟินแลนด์"><span class="footer__flag-icon footer-sprite footer-sprite--fi" aria-hidden="true"></span></a>
+        <a href="https://www.radio-en-ligne.fr" class="footer__flag" target="_blank" rel="noopener" title="ฝรั่งเศส" aria-label="ฝรั่งเศส"><span class="footer__flag-icon footer-sprite footer-sprite--fr" aria-hidden="true"></span></a>
+        <a href="https://www.internetradio-horen.de" class="footer__flag" target="_blank" rel="noopener" title="เยอรมัน" aria-label="เยอรมัน"><span class="footer__flag-icon footer-sprite footer-sprite--de" aria-hidden="true"></span></a>
+        <a href="https://www.radio-italiane.it" class="footer__flag" target="_blank" rel="noopener" title="อิตาลี" aria-label="อิตาลี"><span class="footer__flag-icon footer-sprite footer-sprite--it" aria-hidden="true"></span></a>
+        <a href="https://www.radio-nederland.nl" class="footer__flag" target="_blank" rel="noopener" title="เนเธอร์แลนด์" aria-label="เนเธอร์แลนด์"><span class="footer__flag-icon footer-sprite footer-sprite--nl" aria-hidden="true"></span></a>
+        <a href="https://www.radio-norge.org" class="footer__flag" target="_blank" rel="noopener" title="นอร์เวย์" aria-label="นอร์เวย์"><span class="footer__flag-icon footer-sprite footer-sprite--no" aria-hidden="true"></span></a>
+        <a href="https://www.radio-espana.es" class="footer__flag" target="_blank" rel="noopener" title="สเปน" aria-label="สเปน"><span class="footer__flag-icon footer-sprite footer-sprite--es" aria-hidden="true"></span></a>
+        <a href="https://www.radio-sveriges.se" class="footer__flag" target="_blank" rel="noopener" title="สวีเดน" aria-label="สวีเดน"><span class="footer__flag-icon footer-sprite footer-sprite--se" aria-hidden="true"></span></a>
+        <a href="https://www.internetradio-schweiz.ch" class="footer__flag" target="_blank" rel="noopener" title="สวิตเซอร์แลนด์" aria-label="สวิตเซอร์แลนด์"><span class="footer__flag-icon footer-sprite footer-sprite--ch" aria-hidden="true"></span></a>
+        <a href="https://www.radio-uk.co.uk" class="footer__flag" target="_blank" rel="noopener" title="สหราชอาณาจักร" aria-label="สหราชอาณาจักร"><span class="footer__flag-icon footer-sprite footer-sprite--gb" aria-hidden="true"></span></a>
+        <a href="https://www.radio-polska.pl/" class="footer__flag" target="_blank" rel="noopener" title="โปแลนด์" aria-label="โปแลนด์"><span class="footer__flag-icon footer-sprite footer-sprite--pl" aria-hidden="true"></span></a>
+        <a href="https://www.radios-online.pt/" class="footer__flag" target="_blank" rel="noopener" title="โปรตุเกส" aria-label="โปรตุเกส"><span class="footer__flag-icon footer-sprite footer-sprite--pt" aria-hidden="true"></span></a>
+        <a href="https://www.radio-hrvatska.com" class="footer__flag" target="_blank" rel="noopener" title="โครเอเชีย" aria-label="โครเอเชีย"><span class="footer__flag-icon footer-sprite footer-sprite--hr" aria-hidden="true"></span></a>
+        <a href="https://www.radio-ua.com" class="footer__flag" target="_blank" rel="noopener" title="ยูเครน" aria-label="ยูเครน"><span class="footer__flag-icon footer-sprite footer-sprite--ua" aria-hidden="true"></span></a>
+        <a href="https://www.radio-romania.com" class="footer__flag" target="_blank" rel="noopener" title="โรมาเนีย" aria-label="โรมาเนีย"><span class="footer__flag-icon footer-sprite footer-sprite--ro" aria-hidden="true"></span></a>
+        <a href="https://www.radio-ireland.com" class="footer__flag" target="_blank" rel="noopener" title="ไอร์แลนด์" aria-label="ไอร์แลนด์"><span class="footer__flag-icon footer-sprite footer-sprite--ie" aria-hidden="true"></span></a>
+        <a href="https://www.onlineradio-bg.com" class="footer__flag" target="_blank" rel="noopener" title="บัลแกเรีย" aria-label="บัลแกเรีย"><span class="footer__flag-icon footer-sprite footer-sprite--bg" aria-hidden="true"></span></a>
+        <a href="https://www.radiaonline.org" class="footer__flag" target="_blank" rel="noopener" title="สาธารณรัฐเช็ก" aria-label="สาธารณรัฐเช็ก"><span class="footer__flag-icon footer-sprite footer-sprite--cz" aria-hidden="true"></span></a>
+        <a href="https://www.radiosrbija.org" class="footer__flag" target="_blank" rel="noopener" title="เซอร์เบีย" aria-label="เซอร์เบีย"><span class="footer__flag-icon footer-sprite footer-sprite--rs" aria-hidden="true"></span></a>
+        <a href="https://www.onlineradiok.org" class="footer__flag" target="_blank" rel="noopener" title="ฮังการี" aria-label="ฮังการี"><span class="footer__flag-icon footer-sprite footer-sprite--hu" aria-hidden="true"></span></a>
+        <a href="https://www.radijskepostaje.com" class="footer__flag" target="_blank" rel="noopener" title="สโลวีเนีย" aria-label="สโลวีเนีย"><span class="footer__flag-icon footer-sprite footer-sprite--si" aria-hidden="true"></span></a>
+        <a href="https://www.greek-radio.org" class="footer__flag" target="_blank" rel="noopener" title="กรีซ" aria-label="กรีซ"><span class="footer__flag-icon footer-sprite footer-sprite--gr" aria-hidden="true"></span></a>
+        <a href="https://www.canadaradiostations.com" class="footer__flag" target="_blank" rel="noopener" title="แคนาดา" aria-label="แคนาดา"><span class="footer__flag-icon footer-sprite footer-sprite--ca" aria-hidden="true"></span></a>
+        <a href="https://www.radio-en-vivo.mx" class="footer__flag" target="_blank" rel="noopener" title="เม็กซิโก" aria-label="เม็กซิโก"><span class="footer__flag-icon footer-sprite footer-sprite--mx" aria-hidden="true"></span></a>
+        <a href="https://www.fmradiofree.com" class="footer__flag" target="_blank" rel="noopener" title="สหรัฐอเมริกา" aria-label="สหรัฐอเมริกา"><span class="footer__flag-icon footer-sprite footer-sprite--us" aria-hidden="true"></span></a>
+        <a href="https://www.radio-trinidad.com" class="footer__flag" target="_blank" rel="noopener" title="ตรินิแดดและโตเบโก" aria-label="ตรินิแดดและโตเบโก"><span class="footer__flag-icon footer-sprite footer-sprite--tt" aria-hidden="true"></span></a>
+        <a href="https://www.radio-jamaica.com" class="footer__flag" target="_blank" rel="noopener" title="จาเมกา" aria-label="จาเมกา"><span class="footer__flag-icon footer-sprite footer-sprite--jm" aria-hidden="true"></span></a>
+        <a href="https://www.radiosdenicaragua.org" class="footer__flag" target="_blank" rel="noopener" title="นิการากัว" aria-label="นิการากัว"><span class="footer__flag-icon footer-sprite footer-sprite--ni" aria-hidden="true"></span></a>
+        <a href="https://www.radioselsalvador.org" class="footer__flag" target="_blank" rel="noopener" title="เอลซัลวาดอร์" aria-label="เอลซัลวาดอร์"><span class="footer__flag-icon footer-sprite footer-sprite--sv" aria-hidden="true"></span></a>
+        <a href="https://www.emisoras-de-honduras.com" class="footer__flag" target="_blank" rel="noopener" title="ฮอนดูรัส" aria-label="ฮอนดูรัส"><span class="footer__flag-icon footer-sprite footer-sprite--hn" aria-hidden="true"></span></a>
+        <a href="https://www.radios-argentinas.org" class="footer__flag" target="_blank" rel="noopener" title="อาร์เจนตินา" aria-label="อาร์เจนตินา"><span class="footer__flag-icon footer-sprite footer-sprite--ar" aria-hidden="true"></span></a>
+        <a href="https://www.radio-ao-vivo.com/" class="footer__flag" target="_blank" rel="noopener" title="บราซิล" aria-label="บราซิล"><span class="footer__flag-icon footer-sprite footer-sprite--br" aria-hidden="true"></span></a>
+        <a href="https://www.radios-chilenas.com" class="footer__flag" target="_blank" rel="noopener" title="ชิลี" aria-label="ชิลี"><span class="footer__flag-icon footer-sprite footer-sprite--cl" aria-hidden="true"></span></a>
+        <a href="https://www.emisorascolombianas.co" class="footer__flag" target="_blank" rel="noopener" title="โคลอมเบีย" aria-label="โคลอมเบีย"><span class="footer__flag-icon footer-sprite footer-sprite--co" aria-hidden="true"></span></a>
+        <a href="https://www.radiosdelperu.com.pe" class="footer__flag" target="_blank" rel="noopener" title="เปรู" aria-label="เปรู"><span class="footer__flag-icon footer-sprite footer-sprite--pe" aria-hidden="true"></span></a>
+        <a href="https://www.radios-bolivia.com/" class="footer__flag" target="_blank" rel="noopener" title="โบลิเวีย" aria-label="โบลิเวีย"><span class="footer__flag-icon footer-sprite footer-sprite--bo" aria-hidden="true"></span></a>
+        <a href="https://www.radios-venezuela.com/" class="footer__flag" target="_blank" rel="noopener" title="เวเนซุเอลา" aria-label="เวเนซุเอลา"><span class="footer__flag-icon footer-sprite footer-sprite--ve" aria-hidden="true"></span></a>
+        <a href="https://www.radio-ecuador.org/" class="footer__flag" target="_blank" rel="noopener" title="เอกวาดอร์" aria-label="เอกวาดอร์"><span class="footer__flag-icon footer-sprite footer-sprite--ec" aria-hidden="true"></span></a>
+        <a href="https://www.radios-uruguay.com/" class="footer__flag" target="_blank" rel="noopener" title="อุรุกวัย" aria-label="อุรุกวัย"><span class="footer__flag-icon footer-sprite footer-sprite--uy" aria-hidden="true"></span></a>
+        <a href="https://www.radios-guatemala.com/" class="footer__flag" target="_blank" rel="noopener" title="กัวเตมาลา" aria-label="กัวเตมาลา"><span class="footer__flag-icon footer-sprite footer-sprite--gt" aria-hidden="true"></span></a>
+        <a href="https://www.emisoras-puertorico.com/" class="footer__flag" target="_blank" rel="noopener" title="เปอร์โตริโก" aria-label="เปอร์โตริโก"><span class="footer__flag-icon footer-sprite footer-sprite--pr" aria-hidden="true"></span></a>
+        <a href="https://www.radio-dominicana.com/" class="footer__flag" target="_blank" rel="noopener" title="สาธารณรัฐโดมินิกัน" aria-label="สาธารณรัฐโดมินิกัน"><span class="footer__flag-icon footer-sprite footer-sprite--do" aria-hidden="true"></span></a>
+        <a href="https://www.radioscostarica.org/" class="footer__flag" target="_blank" rel="noopener" title="คอสตาริกา" aria-label="คอสตาริกา"><span class="footer__flag-icon footer-sprite footer-sprite--cr" aria-hidden="true"></span></a>
+        <a href="https://www.radio-australia.org" class="footer__flag" target="_blank" rel="noopener" title="ออสเตรเลีย" aria-label="ออสเตรเลีย"><span class="footer__flag-icon footer-sprite footer-sprite--au" aria-hidden="true"></span></a>
+        <a href="https://www.radio-stations.co.nz/" class="footer__flag" target="_blank" rel="noopener" title="นิวซีแลนด์" aria-label="นิวซีแลนด์"><span class="footer__flag-icon footer-sprite footer-sprite--nz" aria-hidden="true"></span></a>
+        <a href="https://www.canli-radyo-dinle.com/" class="footer__flag" target="_blank" rel="noopener" title="ตุรกี" aria-label="ตุรกี"><span class="footer__flag-icon footer-sprite footer-sprite--tr" aria-hidden="true"></span></a>
+        <a href="https://www.radioindia.in/" class="footer__flag" target="_blank" rel="noopener" title="อินเดีย" aria-label="อินเดีย"><span class="footer__flag-icon footer-sprite footer-sprite--in" aria-hidden="true"></span></a>
+        <a href="https://www.radio-hk.com" class="footer__flag" target="_blank" rel="noopener" title="ฮ่องกง" aria-label="ฮ่องกง"><span class="footer__flag-icon footer-sprite footer-sprite--hk" aria-hidden="true"></span></a>
+        <a href="https://www.radioindonesia.org" class="footer__flag" target="_blank" rel="noopener" title="อินโดนีเซีย" aria-label="อินโดนีเซีย"><span class="footer__flag-icon footer-sprite footer-sprite--id" aria-hidden="true"></span></a>
+        <a href="https://www.radiojapan.org" class="footer__flag" target="_blank" rel="noopener" title="ญี่ปุ่น" aria-label="ญี่ปุ่น"><span class="footer__flag-icon footer-sprite footer-sprite--jp" aria-hidden="true"></span></a>
+        <a href="https://www.radio-philippines.com" class="footer__flag" target="_blank" rel="noopener" title="ฟิลิปปินส์" aria-label="ฟิลิปปินส์"><span class="footer__flag-icon footer-sprite footer-sprite--ph" aria-hidden="true"></span></a>
+        <a href="https://www.radio-singapore.com" class="footer__flag" target="_blank" rel="noopener" title="สิงคโปร์" aria-label="สิงคโปร์"><span class="footer__flag-icon footer-sprite footer-sprite--sg" aria-hidden="true"></span></a>
+        <a href="https://www.radio-thai.com" class="footer__flag" target="_blank" rel="noopener" title="ไทย" aria-label="ไทย"><span class="footer__flag-icon footer-sprite footer-sprite--th" aria-hidden="true"></span></a>
+        <a href="https://www.radio-korea.com" class="footer__flag" target="_blank" rel="noopener" title="เกาหลีใต้" aria-label="เกาหลีใต้"><span class="footer__flag-icon footer-sprite footer-sprite--kr" aria-hidden="true"></span></a>
+        <a href="https://www.radiotaiwan.tw" class="footer__flag" target="_blank" rel="noopener" title="ประเทศไต้หวัน" aria-label="ประเทศไต้หวัน"><span class="footer__flag-icon footer-sprite footer-sprite--tw" aria-hidden="true"></span></a>
+        <a href="https://www.radiomalaysia.org" class="footer__flag" target="_blank" rel="noopener" title="มาเลเซีย" aria-label="มาเลเซีย"><span class="footer__flag-icon footer-sprite footer-sprite--my" aria-hidden="true"></span></a>
+        <a href="https://www.radio-south-africa.co.za" class="footer__flag" target="_blank" rel="noopener" title="แอฟริกาใต้" aria-label="แอฟริกาใต้"><span class="footer__flag-icon footer-sprite footer-sprite--za" aria-hidden="true"></span></a>
+        <a href="https://www.radio-maroc.org/" class="footer__flag" target="_blank" rel="noopener" title="โมร็อกโก" aria-label="โมร็อกโก"><span class="footer__flag-icon footer-sprite footer-sprite--ma" aria-hidden="true"></span></a>
+        <a href="https://www.radio-senegal.com" class="footer__flag" target="_blank" rel="noopener" title="เซเนกัล" aria-label="เซเนกัล"><span class="footer__flag-icon footer-sprite footer-sprite--sn" aria-hidden="true"></span></a>
+        <a href="https://www.radio-ghana.org" class="footer__flag" target="_blank" rel="noopener" title="กานา" aria-label="กานา"><span class="footer__flag-icon footer-sprite footer-sprite--gh" aria-hidden="true"></span></a>
+        <a href="https://www.radio-kenya.com" class="footer__flag" target="_blank" rel="noopener" title="เคนยา" aria-label="เคนยา"><span class="footer__flag-icon footer-sprite footer-sprite--ke" aria-hidden="true"></span></a>
+        <a href="https://www.radio-nigeria.com" class="footer__flag" target="_blank" rel="noopener" title="ไนจีเรีย" aria-label="ไนจีเรีย"><span class="footer__flag-icon footer-sprite footer-sprite--ng" aria-hidden="true"></span></a>
+        <a href="https://www.radio-israel.org" class="footer__flag" target="_blank" rel="noopener" title="อิสราเอล" aria-label="อิสราเอล"><span class="footer__flag-icon footer-sprite footer-sprite--il" aria-hidden="true"></span></a>
+        <a href="https://www.radioarabic.org" class="footer__flag" target="_blank" rel="noopener" title="ประเทศอาหรับ" aria-label="ประเทศอาหรับ"><span class="footer__flag-icon footer-sprite footer-sprite--arab" aria-hidden="true"></span></a>
+        <a href="https://mytuner-radio.com/" class="footer__flag" target="_blank" rel="noopener" title="ทั่วโลก" aria-label="ทั่วโลก"><span class="footer__flag-icon footer-sprite footer-sprite--worldwide" aria-hidden="true"></span></a>
+      </div>
+    </section>
+    
+
+    
+    <div class="footer__bottom">
+      
+      <section class="footer__info">
+        <a href="https://www.radio-thai.com/" class="footer__brand" title="ไปที่หน้าแรก">
+          
+            <img src="https://cdn.regional-radios.app-mind.com/static/assets/images/flags/th.png" alt="Thailand" class="footer__brand-flag" width="40" height="40" loading="lazy" />
+            <div class="footer__brand-text">
+              <h3 class="footer__brand-name">วิทยุออนไลน์</h3>
+              <p class="footer__brand-tagline">สถานีวิทยุและพอดแคสต์</p>
+            </div>
+          
+        </a>
+
+        
+        
+        <div class="footer__app-buttons">
+          <a href="https://www.top-charts.com/" target="_blank" rel="noopener" title="เพลงยอดนิยม"><img src="https://cdn.regional-radios.app-mind.com/static/assets/images/ui/top_charts_website.png" alt="เพลงยอดนิยม" class="footer__app-button"></a>
+          <a href="https://www.podcasts-online.org/" target="_blank" rel="noopener" title="พอดแคสต์"><img src="https://cdn.regional-radios.app-mind.com/static/assets/images/ui/podcasts_website.png" alt="พอดแคสต์" class="footer__app-button"></a>
+        </div>
+        
+      </section>
+
+      
+      <nav class="footer__nav" aria-label="การนำทางส่วนท้าย">
+        <div class="footer__nav-section">
+          <h4 class="footer__nav-title">ทรัพยากร</h4>
+          <ul class="footer__nav-list"><li class="footer__nav-item">
+              <a href="https://www.radio-thai.com/broadcasters/" class="footer__nav-link" title="ผู้แพร่ภาพกระจายเสียง">ผู้แพร่ภาพกระจายเสียง</a>
+            </li><li class="footer__nav-item">
+              <a href="https://www.radio-thai.com/widgets/" class="footer__nav-link" title="วิดเจ็ต">วิดเจ็ต</a>
+            </li><li class="footer__nav-item">
+              <a href="https://www.radio-thai.com/radio-websites-per-country/" class="footer__nav-link" title="เว็บไซต์วิทยุตามประเทศ">เว็บไซต์วิทยุตามประเทศ</a>
+            </li></ul>
+        </div>
+
+        <div class="footer__nav-section">
+          <h4 class="footer__nav-title">เกี่ยวกับ &amp; ติดต่อ</h4>
+          <ul class="footer__nav-list">
+            <li class="footer__nav-item">
+              <a href="https://www.radio-thai.com/privacy-policy" class="footer__nav-link" title="นโยบายความเป็นส่วนตัว">นโยบายความเป็นส่วนตัว</a>
+            </li>
+            <li class="footer__nav-item">
+              <a href="https://www.radio-thai.com/terms" class="footer__nav-link" title="ข้อกำหนดในการให้บริการ">ข้อกำหนดในการให้บริการ</a>
+            </li><li class="footer__nav-item">
+              <a href="https://www.radio-thai.com/about-us" class="footer__nav-link" title="เกี่ยวกับเรา">เกี่ยวกับเรา</a>
+            </li>
+            <li class="footer__nav-item">
+              <a href="https://www.radio-thai.com/contact-us" class="footer__nav-link" title="ติดต่อเรา">ติดต่อเรา</a>
+            </li></ul>
+        </div>
+      </nav>
+    </div>
+
+    
+    <div class="footer__copyright">
+      <p>© AppMind 2026. สงวนลิขสิทธิ์</p>
+    </div>
+  </div>
+</footer>
+
+			</div>
+        </div>
+    </div>
+
+    
+    
+
+    
+<div class="auth-modal" id="auth-modal" style="display:none;" role="dialog" aria-modal="true">
+    <div class="auth-modal__backdrop" id="auth-modal-backdrop"></div>
+    <div class="auth-modal__container">
+        <button class="auth-modal__close" id="auth-modal-close" aria-label="Close">&times;</button>
+
+        
+        <div class="auth-modal__tabs">
+            <button class="auth-modal__tab auth-modal__tab--active" data-tab="login">เข้าสู่ระบบ</button>
+            <button class="auth-modal__tab" data-tab="register">ลงทะเบียน</button>
+        </div>
+
+        
+        <div class="auth-modal__panel" id="auth-panel-login">
+            <form id="login-form" class="auth-form" novalidate>
+                <div class="auth-form__group">
+                    <label for="login-email">อีเมล:</label>
+                    <input type="email" id="login-email" class="form-input" required autocomplete="email" />
+                </div>
+                <div class="auth-form__group">
+                    <label for="login-password">รหัสผ่าน</label>
+                    <input type="password" id="login-password" class="form-input" required autocomplete="current-password" />
+                </div>
+                <div class="auth-form__message" id="login-message"></div>
+                <button type="submit" class="btn btn--primary btn--full">เข้าสู่ระบบ</button>
+                <a href="#" class="auth-form__link" id="forgot-password-link">ลืมรหัสผ่าน?</a>
+            </form>
+
+            <div class="auth-social">
+                <div class="auth-social__divider"><span>หรือดำเนินการต่อด้วย</span></div>
+                <div class="auth-social__buttons">
+                    <button class="btn btn--social btn--google" data-provider="google">
+                        <svg width="18" height="18" viewBox="0 0 18 18"><path fill="#4285F4" d="M17.64 9.2c0-.637-.057-1.251-.164-1.84H9v3.481h4.844a4.14 4.14 0 0 1-1.796 2.716v2.259h2.908c1.702-1.567 2.684-3.875 2.684-6.615z"/><path fill="#34A853" d="M9 18c2.43 0 4.467-.806 5.956-2.18l-2.908-2.259c-.806.54-1.837.86-3.048.86-2.344 0-4.328-1.584-5.036-3.711H.957v2.332A8.997 8.997 0 0 0 9 18z"/><path fill="#FBBC05" d="M3.964 10.71A5.41 5.41 0 0 1 3.682 9c0-.593.102-1.17.282-1.71V4.958H.957A8.996 8.996 0 0 0 0 9c0 1.452.348 2.827.957 4.042l3.007-2.332z"/><path fill="#EA4335" d="M9 3.58c1.321 0 2.508.454 3.44 1.345l2.582-2.58C13.463.891 11.426 0 9 0A8.997 8.997 0 0 0 .957 4.958L3.964 7.29C4.672 5.163 6.656 3.58 9 3.58z"/></svg>
+                        Google
+                    </button>
+                    <button class="btn btn--social btn--facebook" data-provider="facebook">
+                        <svg width="18" height="18" viewBox="0 0 18 18"><path fill="#1877F2" d="M18 9a9 9 0 1 0-10.406 8.89v-6.29H5.309V9h2.285V7.017c0-2.255 1.343-3.501 3.4-3.501.984 0 2.014.176 2.014.176v2.215h-1.135c-1.118 0-1.467.694-1.467 1.406V9h2.496l-.399 2.6h-2.097v6.29A9.002 9.002 0 0 0 18 9z"/></svg>
+                        Facebook
+                    </button>
+                    <button class="btn btn--social btn--apple" data-provider="apple">
+                        <svg width="18" height="18" viewBox="0 0 18 18"><path fill="currentColor" d="M15.545 14.1c-.327.756-.483 1.093-.903 1.763-.586.935-1.412 2.1-2.436 2.112-1.147.013-1.442-.747-2.999-.738-1.556.009-1.882.754-3.029.741-1.024-.012-1.805-1.057-2.392-1.992C2.104 13.36 1.865 10.2 3.082 8.508 3.932 7.33 5.239 6.639 6.46 6.639c1.399 0 2.279.75 3.438.75 1.124 0 1.81-.752 3.43-.752 1.088 0 2.244.593 3.091 1.615-2.716 1.489-2.275 5.369.426 6.448zM11.45 4.64c.458-.59.806-1.42.68-2.27-.748.05-1.624.527-2.135 1.148-.464.563-.848 1.404-.699 2.214.816.025 1.66-.462 2.154-1.093z"/></svg>
+                        Apple
+                    </button>
+                    <button class="btn btn--social btn--twitter" data-provider="twitter">
+                        <svg width="18" height="18" viewBox="0 0 18 18"><path fill="currentColor" d="M13.544 1.5h2.432l-5.312 6.07L17 16.5h-4.893l-3.832-5.01L4.072 16.5H1.638l5.682-6.494L1.5 1.5h5.02l3.463 4.578L13.544 1.5zm-.854 13.5h1.348L5.88 2.88H4.428l8.262 12.12z"/></svg>
+                        X
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="auth-modal__panel" id="auth-panel-register" style="display:none;">
+            <form id="register-form" class="auth-form" novalidate>
+                <div class="auth-form__group">
+                    <label for="register-email">อีเมล:</label>
+                    <input type="email" id="register-email" class="form-input" required autocomplete="email" />
+                </div>
+                <div class="auth-form__group">
+                    <label for="register-display-name">ชื่อที่แสดง</label>
+                    <input type="text" id="register-display-name" class="form-input" autocomplete="name" />
+                </div>
+                <div class="auth-form__group">
+                    <label for="register-password1">รหัสผ่าน</label>
+                    <input type="password" id="register-password1" class="form-input" required minlength="8" autocomplete="new-password" />
+                </div>
+                <div class="auth-form__group">
+                    <label for="register-password2">ยืนยันรหัสผ่าน</label>
+                    <input type="password" id="register-password2" class="form-input" required minlength="8" autocomplete="new-password" />
+                </div>
+                <div class="auth-form__group auth-form__group--checkbox">
+                    <label>
+                        <input type="checkbox" id="register-terms" required />
+                        <span>ฉันยอมรับข้อกำหนดการใช้บริการ</span>
+                    </label>
+                </div>
+                <div class="auth-form__group auth-form__group--checkbox">
+                    <label>
+                        <input type="checkbox" id="register-privacy" required />
+                        <span>ฉันยอมรับนโยบายความเป็นส่วนตัว</span>
+                    </label>
+                </div>
+                <div class="auth-form__message" id="register-message"></div>
+                <button type="submit" class="btn btn--primary btn--full">ลงทะเบียน</button>
+            </form>
+
+            <div class="auth-social">
+                <div class="auth-social__divider"><span>หรือดำเนินการต่อด้วย</span></div>
+                <div class="auth-social__buttons">
+                    <button class="btn btn--social btn--google" data-provider="google">Google</button>
+                    <button class="btn btn--social btn--facebook" data-provider="facebook">Facebook</button>
+                    <button class="btn btn--social btn--apple" data-provider="apple">Apple</button>
+                    <button class="btn btn--social btn--twitter" data-provider="twitter">X</button>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="auth-modal__panel" id="auth-panel-forgot" style="display:none;">
+            <h2>รีเซ็ตรหัสผ่าน</h2>
+            <form id="forgot-password-form" class="auth-form" novalidate>
+                <div class="auth-form__group">
+                    <label for="forgot-email">อีเมล:</label>
+                    <input type="email" id="forgot-email" class="form-input" required autocomplete="email" />
+                </div>
+                <div class="auth-form__message" id="forgot-message"></div>
+                <button type="submit" class="btn btn--primary btn--full">ส่งลิงก์รีเซ็ต</button>
+                <a href="#" class="auth-form__link" id="back-to-login-link">กลับไปเข้าสู่ระบบ</a>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","potentialAction":{"@type":"SearchAction","query-input":"required name=search_term_string","target":"https://www.radio-thai.com/search?q={search_term_string}"},"url":"https://www.radio-thai.com/"},{"@id":"https://www.radio-thai.com/","@type":"CollectionPage","mainEntity":{"@type":"ItemList","itemListElement":[{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/KvDHAwT62s.png","name":"COOL Fahrenheit 93 FM","url":"https://www.radio-thai.com/cool-93"},"name":"COOL Fahrenheit 93 FM","position":1,"url":"https://www.radio-thai.com/cool-93"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/815/green-wave-1065-fm.ea9ba6a2.jpg","name":"Green Wave 106.5 FM","url":"https://www.radio-thai.com/greenwave"},"name":"Green Wave 106.5 FM","position":2,"url":"https://www.radio-thai.com/greenwave"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/yevk8f78cyqr.jpeg","name":"FLEX 104.5 FM","url":"https://www.radio-thai.com/flex-1045-fm"},"name":"FLEX 104.5 FM","position":3,"url":"https://www.radio-thai.com/flex-1045-fm"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/vxc3vq6dxy8j.jpeg","name":"90 ลูกทุ่ง รักไทย","url":"https://www.radio-thai.com/90-rakthai"},"name":"90 ลูกทุ่ง รักไทย","position":4,"url":"https://www.radio-thai.com/90-rakthai"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/379/fm-95-luukthungmhaankhr-smth.fce400b5.png","name":"FM 95 ลูกทุ่งมหานคร อสมท","url":"https://www.radio-thai.com/ltmfm95"},"name":"FM 95 ลูกทุ่งมหานคร อสมท","position":5,"url":"https://www.radio-thai.com/ltmfm95"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/973/fm99-active-radio.fb3cd8bf.png","name":"FM 99 Active Radio","url":"https://www.radio-thai.com/fm99"},"name":"FM 99 Active Radio","position":6,"url":"https://www.radio-thai.com/fm99"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/367/fm-965-khluuenkhwaamkhid-thinking-radio.c01e225c.png","name":"FM 96.5 คลื่นความคิด Thinking Radio","url":"https://www.radio-thai.com/fm-965"},"name":"FM 96.5 คลื่นความคิด Thinking Radio","position":7,"url":"https://www.radio-thai.com/fm-965"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png","name":"สถานีเพลงสตริง Request Radio","url":"https://www.radio-thai.com/request-radio-music"},"name":"สถานีเพลงสตริง Request Radio","position":8,"url":"https://www.radio-thai.com/request-radio-music"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/178/935-top-radio-fm.80355d64.png","name":"93.5 Top Radio FM","url":"https://www.radio-thai.com/935-top-radio-fm"},"name":"93.5 Top Radio FM","position":9,"url":"https://www.radio-thai.com/935-top-radio-fm"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/Ck8sVEmWdv.jpeg","name":"EFM 94.0","url":"https://www.radio-thai.com/efm"},"name":"EFM 94.0","position":10,"url":"https://www.radio-thai.com/efm"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/446/ephlngstringekaa-eingdoi-radio.79ee6ee7.jpg","name":"เพลงสตริงเก่า Eingdoi Radio","url":"https://www.radio-thai.com/eingdoi-radio"},"name":"เพลงสตริงเก่า Eingdoi Radio","position":11,"url":"https://www.radio-thai.com/eingdoi-radio"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/Shf4dp98ac.png","name":"สถานีเพลงเพื่อชีวิต Request Radio For Life","url":"https://www.radio-thai.com/request-radio-forlife"},"name":"สถานีเพลงเพื่อชีวิต Request Radio For Life","position":12,"url":"https://www.radio-thai.com/request-radio-forlife"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/662/great-93.a0cb964a.png","name":"GREAT 93 | ONLINE","url":"https://www.radio-thai.com/great-93"},"name":"GREAT 93 | ONLINE","position":13,"url":"https://www.radio-thai.com/great-93"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/369/met-107-fm.e754f3fd.jpg","name":"Met 107 FM","url":"https://www.radio-thai.com/met-107"},"name":"Met 107 FM","position":14,"url":"https://www.radio-thai.com/met-107"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/bk6a8wzk9wsr.png","name":"ลูกทุ่งเน็ตเวิร์  (Looktung Network)","url":"https://www.radio-thai.com/luukthungentewir-looktung-network"},"name":"ลูกทุ่งเน็ตเวิร์  (Looktung Network)","position":15,"url":"https://www.radio-thai.com/luukthungentewir-looktung-network"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/GSJSFuqNnJ.png","name":"สถานีเพลงลูกทุ่ง Request Radio Country Music","url":"https://www.radio-thai.com/request-radio-country-music"},"name":"สถานีเพลงลูกทุ่ง Request Radio Country Music","position":16,"url":"https://www.radio-thai.com/request-radio-country-music"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/272/talay-9025.c2ab9312.png","name":"Talay 90.25","url":"https://www.radio-thai.com/talay-9025"},"name":"Talay 90.25","position":17,"url":"https://www.radio-thai.com/talay-9025"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/181/106-khrbkhrawkhaaw.7d16a7d7.png","name":"106 ครอบครัวข่าว","url":"https://www.radio-thai.com/106familynews"},"name":"106 ครอบครัวข่าว","position":18,"url":"https://www.radio-thai.com/106familynews"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/95eeadbawa4q.png","name":"บุญมา พันดวง (Boonma FM)","url":"https://www.radio-thai.com/buymaa-phandwng"},"name":"บุญมา พันดวง (Boonma FM)","position":19,"url":"https://www.radio-thai.com/buymaa-phandwng"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/ptshgz8bvtsk.jpeg","name":"สวพ Fm 91","url":"https://www.radio-thai.com/fm91"},"name":"สวพ Fm 91","position":20,"url":"https://www.radio-thai.com/fm91"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/228/bp-radio-hd.2fbc8388.jpg","name":"BP Radio สตริงกลาง 90","url":"https://www.radio-thai.com/bp-radio-hd"},"name":"BP Radio สตริงกลาง 90","position":21,"url":"https://www.radio-thai.com/bp-radio-hd"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/fzc5x62n4qk8.jpg","name":"Yesterday 106.5 FM","url":"https://www.radio-thai.com/yesterday-1065-fm"},"name":"Yesterday 106.5 FM","position":22,"url":"https://www.radio-thai.com/yesterday-1065-fm"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/78dwuzgjfqmh.png","name":"สถานีวิทุยส่วนภูมิภาค MCOT Radio ลำปาง","url":"https://www.radio-thai.com/sthaaniiwithuyswnphuumiphaakh-mcot-radio-lampaang"},"name":"สถานีวิทุยส่วนภูมิภาค MCOT Radio ลำปาง","position":23,"url":"https://www.radio-thai.com/sthaaniiwithuyswnphuumiphaakh-mcot-radio-lampaang"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/pFkhvW6wPL.png","name":"สถานีเพลงสากล Request Radio International Music","url":"https://www.radio-thai.com/request-radio-international-music"},"name":"สถานีเพลงสากล Request Radio International Music","position":24,"url":"https://www.radio-thai.com/request-radio-international-music"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/dqhdnczntxrn.png","name":"YES Radio thai Family (TH Only)","url":"https://www.radio-thai.com/yes-radio-thai-family-th-only"},"name":"YES Radio thai Family (TH Only)","position":25,"url":"https://www.radio-thai.com/yes-radio-thai-family-th-only"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/nb2ery3pqq9y.png","name":"สถานีวิทุยส่วนภูมิภาค MCOT Radio เชียงใหม่","url":"https://www.radio-thai.com/sthaaniiwithuyswnphuumiphaakh-mcot-radio-echiiyngaihm"},"name":"สถานีวิทุยส่วนภูมิภาค MCOT Radio เชียงใหม่","position":26,"url":"https://www.radio-thai.com/sthaaniiwithuyswnphuumiphaakh-mcot-radio-echiiyngaihm"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/32nfvg7pxmdt.png","name":"เดอะช็อค The Shock 101","url":"https://www.radio-thai.com/the-shock-fm101"},"name":"เดอะช็อค The Shock 101","position":27,"url":"https://www.radio-thai.com/the-shock-fm101"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/282/string-wowradio.6ca455bf.jpg","name":"เพลงสตริงเก่า ว้าว เรดิโอ online","url":"https://www.radio-thai.com/string-wowradio"},"name":"เพลงสตริงเก่า ว้าว เรดิโอ online","position":28,"url":"https://www.radio-thai.com/string-wowradio"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/dkbtbmamjlxr.png","name":"เพลงลูกทุ่งหมอลำ กันตรึม ไทยลานนาเรดิโอ","url":"https://www.radio-thai.com/ephlngluukthunghmlam-kantruem-aithylaannaaerdio"},"name":"เพลงลูกทุ่งหมอลำ กันตรึม ไทยลานนาเรดิโอ","position":29,"url":"https://www.radio-thai.com/ephlngluukthunghmlam-kantruem-aithylaannaaerdio"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/fupLAccBRh.png","name":"Ondio New","url":"https://www.radio-thai.com/ondio-new"},"name":"Ondio New","position":30,"url":"https://www.radio-thai.com/ondio-new"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/naazdc5h6kuz.png","name":"98 อีสาน เอฟเอ็ม","url":"https://www.radio-thai.com/98-iisaan-efem"},"name":"98 อีสาน เอฟเอ็ม","position":31,"url":"https://www.radio-thai.com/98-iisaan-efem"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/gcevqeh6xptz.png","name":"THAI MUSIC","url":"https://www.radio-thai.com/thai-music"},"name":"THAI MUSIC","position":32,"url":"https://www.radio-thai.com/thai-music"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/260/fm91-pattaya-mun-d.3630640c.png","name":"onairPLUS | PattayaMundee.com FM91 - พัทยามันดี","url":"https://www.radio-thai.com/fm91-pattaya-mundee"},"name":"onairPLUS | PattayaMundee.com FM91 - พัทยามันดี","position":33,"url":"https://www.radio-thai.com/fm91-pattaya-mundee"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/epechblwdmx9.png","name":"CU Radio","url":"https://www.radio-thai.com/cu-radio"},"name":"CU Radio","position":34,"url":"https://www.radio-thai.com/cu-radio"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/470/js-100-radio.425b78b2.jpg","name":"JS 100 Radio","url":"https://www.radio-thai.com/js100"},"name":"JS 100 Radio","position":35,"url":"https://www.radio-thai.com/js100"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/e6qvtshx8e64.png","name":"สถานีวิทุยส่วนภูมิภาค MCOT Radio เชียงราย","url":"https://www.radio-thai.com/sthaaniiwithuyswnphuumiphaakh-mcot-radio-echiiyngraay"},"name":"สถานีวิทุยส่วนภูมิภาค MCOT Radio เชียงราย","position":36,"url":"https://www.radio-thai.com/sthaaniiwithuyswnphuumiphaakh-mcot-radio-echiiyngraay"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/fANqGSV3WH.png","name":"MUNforward Xtra","url":"https://www.radio-thai.com/munforward-xtra"},"name":"MUNforward Xtra","position":37,"url":"https://www.radio-thai.com/munforward-xtra"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/rt8MwG59Av.jpg","name":"Hotwave Online","url":"https://www.radio-thai.com/hotwave-online"},"name":"Hotwave Online","position":38,"url":"https://www.radio-thai.com/hotwave-online"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/004/luukthungaihm-885-wow-radio-cchanghwadaephr.193af252.jpg","name":"เพลงลูกทุ่ง WOWRadio online HD","url":"https://www.radio-thai.com/wow-radio"},"name":"เพลงลูกทุ่ง WOWRadio online HD","position":39,"url":"https://www.radio-thai.com/wow-radio"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/5qHHXe7LRX.png","name":"MUNforward","url":"https://www.radio-thai.com/munfoward"},"name":"MUNforward","position":40,"url":"https://www.radio-thai.com/munfoward"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/7CdaEWFPHD.png","name":"MCOT Modern Radio","url":"https://www.radio-thai.com/mcot-modern-radio"},"name":"MCOT Modern Radio","position":41,"url":"https://www.radio-thai.com/mcot-modern-radio"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/156/city-radio-pattaya.ea03ead4.png","name":"City Radio Pattaya","url":"https://www.radio-thai.com/city-radio-pattaya"},"name":"City Radio Pattaya","position":42,"url":"https://www.radio-thai.com/city-radio-pattaya"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/972/rad-radio-895.bfe6a248.jpg","name":"Rad Radio 89.5","url":"https://www.radio-thai.com/rad-radio-895"},"name":"Rad Radio 89.5","position":43,"url":"https://www.radio-thai.com/rad-radio-895"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/dlaqq6tswujg.png","name":"Wat","url":"https://www.radio-thai.com/wat"},"name":"Wat","position":44,"url":"https://www.radio-thai.com/wat"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/226/friends-bangkok.47f2124f.png","name":"Friends Bangkok","url":"https://www.radio-thai.com/friends-bangkok"},"name":"Friends Bangkok","position":45,"url":"https://www.radio-thai.com/friends-bangkok"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png","name":"สถานีเพลงแดนซ์ Request Radio Dance Mix","url":"https://www.radio-thai.com/request-radio-dancemix"},"name":"สถานีเพลงแดนซ์ Request Radio Dance Mix","position":46,"url":"https://www.radio-thai.com/request-radio-dancemix"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/345/smooth-fm-1055.754ab47c.png","name":"Smooth FM 105.5","url":"https://www.radio-thai.com/smooth-fm-1055"},"name":"Smooth FM 105.5","position":47,"url":"https://www.radio-thai.com/smooth-fm-1055"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/b5xenqq4q4kv.jpg","name":"เพลงลูกทุ่ง จั๊กกะจี้เรดิโอ","url":"https://www.radio-thai.com/ephlngluukthung-cchakkacchiierdio"},"name":"เพลงลูกทุ่ง จั๊กกะจี้เรดิโอ","position":48,"url":"https://www.radio-thai.com/ephlngluukthung-cchakkacchiierdio"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/wbu3vFWvq4.png","name":"Mcot Radio 102.0 FM Surat Thani","url":"https://www.radio-thai.com/mcot-radio-1020-fm-surat-thani"},"name":"Mcot Radio 102.0 FM Surat Thani","position":49,"url":"https://www.radio-thai.com/mcot-radio-1020-fm-surat-thani"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/682/great-online-thailand.782a3dd3.png","name":"GREAT 93 | ONAIR","url":"https://www.radio-thai.com/great-online2"},"name":"GREAT 93 | ONAIR","position":50,"url":"https://www.radio-thai.com/great-online2"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/580/swthsngkhlaa-fm-905-mhz-radiothailand.95aec903.jpg","name":"สวท.สงขลา | FM 90.5 MHz | RadioThailand","url":"https://www.radio-thai.com/swthsngkhlaa-fm-905-mhz-radiothailand"},"name":"สวท.สงขลา | FM 90.5 MHz | RadioThailand","position":51,"url":"https://www.radio-thai.com/swthsngkhlaa-fm-905-mhz-radiothailand"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/ltwwznwtmq8e.jpg","name":"วัดป่าไทรงาม (Wat Sai Ngam)","url":"https://www.radio-thai.com/wadpaaaithrngaam-wat-sai-ngam"},"name":"วัดป่าไทรงาม (Wat Sai Ngam)","position":52,"url":"https://www.radio-thai.com/wadpaaaithrngaam-wat-sai-ngam"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/kD8W96emy7.jpg","name":"102 Radio สถานีวิทยุกระจายเสียง ขส.ทบ","url":"https://www.radio-thai.com/102-radio-sthaaniiwithyukracchaayesiiyng-khsthb"},"name":"102 Radio สถานีวิทยุกระจายเสียง ขส.ทบ","position":53,"url":"https://www.radio-thai.com/102-radio-sthaaniiwithyukracchaayesiiyng-khsthb"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/japcrdy9nsfm.png","name":"เพลงลูกทุ่ง ล้านนาเรดิโอ","url":"https://www.radio-thai.com/ephlngluukthung-laannaaerdio"},"name":"เพลงลูกทุ่ง ล้านนาเรดิโอ","position":54,"url":"https://www.radio-thai.com/ephlngluukthung-laannaaerdio"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/452/surf-1025-fm.f2a7db1b.png","name":"Surf Radio","url":"https://www.radio-thai.com/surf-1025-fm"},"name":"Surf Radio","position":55,"url":"https://www.radio-thai.com/surf-1025-fm"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/328/905-smart-news-mitikhaaw.b742cb9c.jpg","name":"90.5 Smart News มิติข่าว","url":"https://www.radio-thai.com/smart-news"},"name":"90.5 Smart News มิติข่าว","position":56,"url":"https://www.radio-thai.com/smart-news"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/043/ephlngluukthung-huahin-radio.c6db6f26.png","name":"Huahin Radio Thailand เพลงลูกทุ่ง","url":"https://www.radio-thai.com/huahinmusic-radio"},"name":"Huahin Radio Thailand เพลงลูกทุ่ง","position":57,"url":"https://www.radio-thai.com/huahinmusic-radio"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/rvk9j5ak7cqs.jpeg","name":"FM102 คลื่นคนทำงาน","url":"https://www.radio-thai.com/fm102-khluuenkhnthamngaan"},"name":"FM102 คลื่นคนทำงาน","position":58,"url":"https://www.radio-thai.com/fm102-khluuenkhnthamngaan"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/npf98zpgecxc.png","name":"สถานีวิทุยส่วนภูมิภาค MCOT Radio บุรีรัมย์","url":"https://www.radio-thai.com/sthaaniiwithuyswnphuumiphaakh-mcot-radio-buriiramy"},"name":"สถานีวิทุยส่วนภูมิภาค MCOT Radio บุรีรัมย์","position":59,"url":"https://www.radio-thai.com/sthaaniiwithuyswnphuumiphaakh-mcot-radio-buriiramy"},{"@type":"ListItem","item":{"@type":"RadioStation","image":"https://static.mytuner.mobi/media/tvos_radios/187/musichitz-radio-inter.1312996b.jpg","name":"Musichitz Radio Inter","url":"https://www.radio-thai.com/musichitz-radio-inter"},"name":"Musichitz Radio Inter","position":60,"url":"https://www.radio-thai.com/musichitz-radio-inter"}],"name":"สถานี","numberOfItems":415},"name":"สถานี","url":"https://www.radio-thai.com/"}]}</script>
+    
+        <script type="module" src="https://cdn.regional-radios.app-mind.com/static/assets/js/app-f15871b4.js"></script>
+    
+    
+    
+        
+<script type="text/javascript">function loadScript(url) {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.async = true;script.src = url;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  }
+
+  loadScript("https:\/\/cdn.fuseplatform.net\/publift\/tags\/2\/3156\/fuse.js");
+
+
+
+
+
+
+
+
+
+</script>
+
+    
+</body>
+</html>
